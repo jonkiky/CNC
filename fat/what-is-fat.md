@@ -22,17 +22,17 @@ Fat -&gt; Lipids
 
 ### **Saturated Fatty Acids**
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Fatty acids that have the maximum number of hydrogen molecules and contain only single bonds between their carbon atoms. Foods high in saturated fatty acids are usually solid at room temperature \(like butter\) 
 
 Saturated fatty acids are found mostly in animal products: cheese, beef, pork, chicken, butter, full fat dairy, and egg yolks.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### **Unsaturated Fatty Acids**
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 Fatty acids that have one or more double bonds between the carbon atoms in the carbon chain. These are typically liquid at room temperature, relatively unstable, and are prone to oxidative damage.
 
