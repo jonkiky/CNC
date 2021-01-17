@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Nutrition Coach](README.md)
-* [N](n.md)
 
 ## Energy Balance and Metabolism
 
