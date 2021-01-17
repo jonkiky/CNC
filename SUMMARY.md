@@ -20,5 +20,8 @@
 * [Digestion and Absorption](fat/digestion-and-absorption.md)
 * [Functions](fat/functions.md)
 * [Accommodating In A Dietary Program](fat/accommodating-in-a-dietary-program.md)
-* [Myths and Hot Topics](fat/myths-and-hot-topics.md)
+
+## Energy Balance and Metabolism <a id="energy-balance-and-metabolism-1"></a>
+
+* [Untitled](energy-balance-and-metabolism-1/untitled.md)
 
