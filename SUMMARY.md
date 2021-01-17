@@ -5,7 +5,6 @@
 ## Energy Balance and Metabolism
 
 * [Introduction](energy-balance-and-metabolism/introduction.md)
-* [Untitled](energy-balance-and-metabolism/untitled.md)
 
 ## Alcohol
 
@@ -14,4 +13,12 @@
 * [Physiological Effects Of Alcohol](alcohol/physiological-effects-of-alcohol.md)
 * [Alcohol Myths and Hot Topics](alcohol/alcohol-myths-and-hot-topics.md)
 * [Accommodating In A Dietary Program.](alcohol/accommodating-in-a-dietary-program..md)
+
+## Fat
+
+* [What is Fat](fat/what-is-fat.md)
+* [Digestion and Absorption](fat/digestion-and-absorption.md)
+* [Functions](fat/functions.md)
+* [Accommodating In A Dietary Program](fat/accommodating-in-a-dietary-program.md)
+* [Myths and Hot Topics](fat/myths-and-hot-topics.md)
 
