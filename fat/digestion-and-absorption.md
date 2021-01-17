@@ -74,7 +74,31 @@ deliver cholesterol _to_ the cells -&gt; used in cell membranes  or  to help in 
 
 retrieving excess cholesterol from the cells and bringing it _back_ to the liver
 
+![](../.gitbook/assets/screen-shot-2021-01-17-at-10.16.49-am.png)
 
+## Fat Metabolism and Storage
+
+![](../.gitbook/assets/screen-shot-2021-01-17-at-10.21.37-am.png)
+
+
+
+Chylomicrons and VLDLs deliver triglycerides to the cells
+
+1. broken down\( **beta-oxidation** \) to fatty acids and glycerol for the cells to use
+2. In adipose \(fat\) cells, the fatty acids are combined with a glycerol to become a triglyceride for storage in the adipose tissue.
+3. muscle cells, the fatty acids may be stored or made into **acetyl-CoA.**
+4. In the liver, acetyl-CoA is broken down into ketone bodies when rates of fatty oxidation are very high.
+5. the liver converts glycerol into glucose via gluconeogenesis ****
+
+
+
+
+
+**beta-oxidation :**The process that occurs within the cell’s mitochondria to produce glycerol and fatty acids.
+
+**acetyl-CoA:** A molecule that participates in biochemical reactions in protein, carbohydrate, and lipid metabolism, producing energy.
+
+**ketone bodies:** A group of incompletely metabolized fat fragments that are normally produced during fat metabolism in the absence of adequate carbohydrates.
 
 
 
