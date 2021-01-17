@@ -52,9 +52,29 @@ Once in the cell, the lipoprotein lipase breaks down the triglycerides into fatt
 
 ## The Liver
 
+cholesterol  **and**  triglycerides
+
+
+
 ![](../.gitbook/assets/screen-shot-2021-01-16-at-11.51.26-pm.png)
 
 low-density lipoprotein \(**LDL**\) and high-density lipoprotein \(**HDL**\).
+
+LDLs and HDLs carry cholesterol \(not triglycerides\).
+
+**LDL** \(bad\) :
+
+ deliver cholesterol _to_ the liver
+
+deliver cholesterol _to_ the cells -&gt; used in cell membranes  or  to help in the synthesis of steroid hormones
+
+ **chylomicrons** and **VLDLs** bring **triglycerides** to the **cells** 
+
+**HDL** \(Good\) : 
+
+retrieving excess cholesterol from the cells and bringing it _back_ to the liver
+
+
 
 
 
