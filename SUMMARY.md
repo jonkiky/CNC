@@ -6,6 +6,13 @@
 
 * [Introduction](energy-balance-and-metabolism/introduction.md)
 
+## Energy Balance and Metabolism <a id="energy-balance-and-metabolism-1"></a>
+
+* [Thermodynamics and Energy Balance](energy-balance-and-metabolism-1/untitled.md)
+* [Components of Energy Out](energy-balance-and-metabolism-1/components-of-energy-out.md)
+* [Components of Energy In](energy-balance-and-metabolism-1/components-of-energy-in.md)
+* [Metabolic Energy Systems](energy-balance-and-metabolism-1/metabolic-energy-systems.md)
+
 ## Alcohol
 
 * [What is Alcohol](alcohol/what-is-alcohol.md)
@@ -20,10 +27,6 @@
 * [Digestion and Absorption](fat/digestion-and-absorption.md)
 * [Functions](fat/functions.md)
 * [Accommodating In A Dietary Program](fat/accommodating-in-a-dietary-program.md)
-
-## Energy Balance and Metabolism <a id="energy-balance-and-metabolism-1"></a>
-
-* [Untitled](energy-balance-and-metabolism-1/untitled.md)
 
 ## Psychology of Weight Control and Behavior Change
 
