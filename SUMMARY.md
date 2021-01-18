@@ -25,3 +25,8 @@
 
 * [Untitled](energy-balance-and-metabolism-1/untitled.md)
 
+## Psychology of Weight Control and Behavior Change
+
+* [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
+* [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
+
