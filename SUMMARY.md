@@ -14,13 +14,19 @@
 * [Metabolic Energy Systems](energy-balance-and-metabolism-1/metabolic-energy-systems.md)
 * [Quiz](energy-balance-and-metabolism-1/quiz.md)
 
+## Protein
+
+* [What is Protein](protein/what-is-protein.md)
+* [Digestion and Absorption](protein/digestion-and-absorption.md)
+* [Accommodating In A Dietary Program](protein/accommodating-in-a-dietary-program.md)
+
 ## Alcohol
 
 * [What is Alcohol](alcohol/what-is-alcohol.md)
 * [Digestion and Absorption](alcohol/digestion-and-absorption.md)
 * [Physiological Effects Of Alcohol](alcohol/physiological-effects-of-alcohol.md)
 * [Alcohol Myths and Hot Topics](alcohol/alcohol-myths-and-hot-topics.md)
-* [Accommodating In A Dietary Program.](alcohol/accommodating-in-a-dietary-program..md)
+* [Accommodating In A Dietary Program](alcohol/accommodating-in-a-dietary-program..md)
 
 ## Fat
 

@@ -1,4 +1,4 @@
-# Accommodating In A Dietary Program.
+# Accommodating In A Dietary Program
 
 **Standard Drink**  Any alcoholic beverage that contains 0.6 ounces of ethanol. 
 
