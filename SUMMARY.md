@@ -12,6 +12,7 @@
 * [Components of Energy Out](energy-balance-and-metabolism-1/components-of-energy-out.md)
 * [Components of Energy In](energy-balance-and-metabolism-1/components-of-energy-in.md)
 * [Metabolic Energy Systems](energy-balance-and-metabolism-1/metabolic-energy-systems.md)
+* [Quiz](energy-balance-and-metabolism-1/quiz.md)
 
 ## Alcohol
 
