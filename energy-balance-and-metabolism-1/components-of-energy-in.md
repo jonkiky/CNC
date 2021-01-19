@@ -27,7 +27,11 @@ Leptin is supposed to tell the brain that we have reached a state of desired cal
 
 Larger bodies \(e.g., those with higher BMI\) will have larger quantities of leptin**,** leptin resistance may play some role in common obesity.
 
-### _**Ghrelin**_
+### _**Ghrelin**_ 
+
+is a hormone that is produced and released primarily by the stomach, with small amounts also released by the small intestine, pancreas, and brain.
+
+![](../.gitbook/assets/screen-shot-2021-01-19-at-11.10.06-am.png)
 
 
 
