@@ -13,7 +13,7 @@
 ## Protein
 
 * [What is Protein](protein/what-is-protein.md)
-* [Digestion and Absorption](protein/digestion-and-absorption.md)
+* [Digestion, Absorption](protein/digestion-and-absorption.md)
 * [Accommodating In A Dietary Program](protein/accommodating-in-a-dietary-program.md)
 
 ## Alcohol
