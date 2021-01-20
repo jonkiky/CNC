@@ -14,6 +14,7 @@
 
 * [What is Protein](protein/what-is-protein.md)
 * [Digestion, Absorption](protein/digestion-and-absorption.md)
+* [Function](protein/function.md)
 * [Accommodating In A Dietary Program](protein/accommodating-in-a-dietary-program.md)
 
 ## Alcohol
