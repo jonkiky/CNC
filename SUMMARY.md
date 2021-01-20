@@ -2,10 +2,6 @@
 
 * [Nutrition Coach](README.md)
 
-## Energy Balance and Metabolism
-
-* [Introduction](energy-balance-and-metabolism/introduction.md)
-
 ## Energy Balance and Metabolism <a id="energy-balance-and-metabolism-1"></a>
 
 * [Thermodynamics and Energy Balance](energy-balance-and-metabolism-1/untitled.md)
