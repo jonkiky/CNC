@@ -12,6 +12,10 @@ The dietary reference intakes \(DRI\) are established by the Food and Nutrition 
 
 They establish the **recommended dietary allowance \(RDA\)** for protein, last revised in 2005. The RDA for protein is **46 grams per day for women and 56 grams per day for men.** based on providing **0.8** grams of protein per kilogram of body weight per day.
 
+
+
+older consume at least **0.9 to 1.6** grams of protein per kilogram bodyweight
+
 ### Total Daily Protein Requirements
 
 ![](../.gitbook/assets/screen-shot-2021-01-21-at-2.33.04-pm%20%281%29.png)
@@ -30,7 +34,7 @@ Maintaining as much muscle mass as possible while dieting can be achieved with g
 
 animal proteins are complete proteins and plant proteins are incomplete proteins, exception of soy
 
-They can be combined to form a complete protein in a single meal. Because of this, they are called **complementary proteins**. 
+**complementary proteins**.  Two incomplete proteins that, when comsumed together, mimic a complete protein by providing all essential amino acids.
 
 wheat/peanut butter, pasta/peas, and lentils/almonds
 
