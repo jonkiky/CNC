@@ -40,7 +40,7 @@ Amino acids that can be synthesized by the body and do not, under normal circums
 
 ![](../.gitbook/assets/screen-shot-2021-01-19-at-4.48.33-pm.png)
 
-Glucogenic amino acids
+**Glucogenic** amino acids
 
 carbon backbone converted to glucose by the process of gluconeogenesis,
 
@@ -48,7 +48,7 @@ they can be converted to an intermediate compound that may enter the Krebs cycle
 
 
 
-Ketogenic amino acids
+**Ketogenic** amino acids
 
 acetoacetate \(a ketone body\) or acetyl-CoA prior to entering the Krebs cycle for the generation of ATP.
 

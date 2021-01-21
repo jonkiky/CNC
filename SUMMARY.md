@@ -16,6 +16,14 @@
 * [Digestion, Absorption](protein/digestion-and-absorption.md)
 * [Function](protein/function.md)
 * [Accommodating In A Dietary Program](protein/accommodating-in-a-dietary-program.md)
+* [Quiz](protein/quiz.md)
+
+## Carbohydrates
+
+* [Carbohydrate Introduction](carbohydrates/carbohydrate-introduction.md)
+* [Digestion, Absorption](carbohydrates/digestion-absorption.md)
+* [Functions](carbohydrates/functions.md)
+* [Accommodating In A Dietary Program](carbohydrates/accommodating-in-a-dietary-program.md)
 
 ## Alcohol
 
