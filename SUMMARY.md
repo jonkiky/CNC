@@ -46,3 +46,10 @@
 * [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
 * [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
 
+## Micronutrients
+
+* [Water-Soluble Vitamins](micronutrients/water-soluble-vitamins.md)
+* [Fat-Soluble Vitamins](micronutrients/fat-soluble-vitamins.md)
+* [Minerals](micronutrients/minerals.md)
+* [Micronutrient Application](micronutrients/micronutrient-application.md)
+
