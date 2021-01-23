@@ -24,6 +24,7 @@
 * [Digestion, Absorption](carbohydrates/digestion-absorption.md)
 * [Functions](carbohydrates/functions.md)
 * [Accommodating In A Dietary Program](carbohydrates/accommodating-in-a-dietary-program.md)
+* [Quiz](carbohydrates/quiz.md)
 
 ## Alcohol
 
