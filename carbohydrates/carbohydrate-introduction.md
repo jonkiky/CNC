@@ -71,11 +71,11 @@ Each contain **long-chain glucose structures** of more than 10 units, but they c
 
 ![](../.gitbook/assets/screen-shot-2021-01-22-at-4.35.56-pm.png)
 
-Amylose : A straight-chain and digestible form of starch containing glucose molecules.
+**Amylose** : A straight-chain and digestible form of starch containing glucose molecules.
 
-Amylopectin : A branched-chain and digestible form of starch containing glucose molecules.
+**Amylopectin** : A branched-chain and digestible form of starch containing glucose molecules.
 
-Fiber : as a block structure
+**Fiber** : as a block structure
 
 **amylose and amylopectin** are **digestible** and make up approximately **20% and 80%** of the **digestible starches found in vegetables, grains, pasta, rice, and beans,**
 
@@ -85,7 +85,7 @@ Greater levels of amylopectin result in a faster and a greater spike in blood su
 
 
 
-Soluble Fiber : A type of dietary fiber that dissolves in water to form a gel, associated with heart health benefits and glucose control. Source pectins, gums, and mucilages that originate from the inside of the plant cell.
+Soluble Fiber : A type of dietary fiber that dissolves in water to form a gel, associated with **heart health benefits** and glucose control. Source pectins, gums, and mucilages that originate from the inside of the plant cell.
 
 soluble -&gt; dissolve or swell when placed in water
 
@@ -99,7 +99,61 @@ They offer several benefits:
 * **Diabetes protection**—This carbohydrate is not absorbed. It can, therefore, reduce potential blood sugar spikes.
 * **Improved absorption of foods**—It slows the movement of food through the small intestine. It can enhance nutrient absorption.
 
+**Insoluble fiber** 
+
+![](../.gitbook/assets/screen-shot-2021-01-23-at-9.14.33-am.png)
+
+form the structural parts of plants and include compounds like cellulose, hemicellulose, and lignin, are often found in the outermost portion of grains,vegetables, fruits, and seeds
+
+* **Digestive** health—It adds bulk and draws water into the GI tract. It improves regularity in the large intestine to avoid constipation and other **bowel-related** health problems \(e.g., hemorrhoids\).
+* **Reduces** risk of **cancer**—It improves movement through the large intestine. It reduces the risk of colon cancer and other large intestinal diseases \(e.g., **diverticulosis**\).
+* **Weight loss**—By delaying gastric emptying \(from stomach\), it promotes an overall feeling of fullness, reducing caloric intake.
+
+**Functional fiber** 
+
+A compound derived from isolated indigestible fiber to potentially provide some of the health-promoting benefits of natural fiber.
+
+These commercially available and man-made compounds like polydextrose and inulin are popular in many foods, but whether they offer the same health-promoting benefits as natural fiber remains to be determined.
 
 
 
+
+
+Good Food Sources of Fiber
+
+| **Food Source** | **Standard Portion Size** | **Dietary Fiber \(grams\)** |
+| :--- | :--- | :--- |
+| High fiber bran ready-to-eat cereal | ⅓ to ¾ cup | 9.1 to 14.3 grams |
+| Navy beans | ½ cup | 9.6 grams |
+| Split peas \(cooked\) | ½ cup | 8.1 grams |
+| Lentils \(cooked\) | ½ cup | 7.8 grams |
+| Pinto beans \(cooked\) | ½ cup | 7.7 grams |
+| Wheat bran flakes, ready-to-eat cereal | ¾ cup | 4.9 to 5.5 grams |
+| Pear \(raw\) | 1 medium-sized | 5.5 grams |
+| Baked beans \(canned, plain\) | ½ cup | 5.2 grams |
+| Avocado | ½ cup | 5.0 grams |
+| Apple \(with skin\) | 1 medium-sized | 4.4 grams |
+| Raspberries, blackberries | ½ cup | 3.8 to 4.0 grams |
+| Prunes \(stewed\) | ½ cup | 3.8 grams |
+| Almonds | 1 ounce | 3.5 grams |
+| Banana | 1 medium-sized | 3.1 grams |
+| Winter squash \(cooked\) | ½ cup | 2.9 grams |
+| Peanuts \(oil roasted\) | 1 ounce | 2.7 grams |
+| Quinoa \(cooked\) | ½ cup | 2.6 grams |
+
+## Glycogen
+
+**Glycogen** is the storage molecule of glucose in animals, ****It is important to note that there is no fructose in glycogen; only glucose molecules are used to form glycogen. 
+
+can range from 100 to over 30,000 glucose units
+
+![](../.gitbook/assets/screen-shot-2021-01-23-at-9.20.02-am.png)
+
+Glycogenolysis : The process of **breaking down** the glycogen molecule into its individual glucose units for entry into the energy pathways.
+
+**glycogenesis:**  The process of forming glycogen from glucose.
+
+![](../.gitbook/assets/screen-shot-2021-01-23-at-9.22.27-am.png)
+
+![](../.gitbook/assets/screen-shot-2021-01-23-at-9.23.57-am.png)
 
