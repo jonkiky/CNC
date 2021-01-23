@@ -80,3 +80,41 @@ A Nutrition Coach should advise the client to consume a variety of grains, nuts,
 
 
 
+What is an adverse effect of a high protein diet?
+
+Kidney issues in those with pre-existing conditions
+
+
+
+For an individual engaged in light aerobic exercise 2-3 days per week, what would be the most optimal protein prescription?
+
+1.4 g/kg body weight
+
+
+
+How do protein and amino acids influence body pH?
+
+They act as buffers to maintain neutral pH.
+
+
+
+How many essential amino acids are there?
+
+9
+
+Protein is involved in forming which of the following?
+
+Bones
+
+
+
+Which of the following is the best protocol for fat loss while maintaining muscle mass?
+
+A calorie-restricted, high-protein \(1.8-2.2 g/kg body weight\) diet & resistance training
+
+
+
+
+
+
+

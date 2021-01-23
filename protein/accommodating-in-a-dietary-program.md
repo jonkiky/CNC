@@ -24,7 +24,7 @@ research on the effects of very high protein intake \(3.0 to 4.4 grams per kilog
 
 
 
-Maintaining as much muscle mass as possible while dieting can be achieved with greater protein intake \(at least 1.8 to 2.2 grams per kilogram\) and regular resistance training.
+Maintaining as much muscle mass as possible while dieting can be achieved with greater protein intake \(at least **1.8** to **2.2** grams per kilogram\) and regular resistance training.
 
 ### Protein Quality
 
