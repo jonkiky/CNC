@@ -60,5 +60,47 @@ Pancreas
 
 Declining
 
+**What is the end-result of inadequate rest?**
+
+Reduced RMR
+
+
+
+The first law of thermodynamics is also referred to as which of the following?
+
+The law of conservation of energy
+
+
+
+Energy expended during walking at work, typing, walking to and from meetings, and fidgeting is referred to as which of the following?
+
+Non-exercise activity thermogenesis \(NEAT\)
+
+
+
+Which principle describes how all energy taken into the body is accounted for; energy is either utilized directly, stored, or transformed to kinetic energy or heat?
+
+The first law of thermodynamics
+
+
+
+The process of generating energy \(in the form of ATP\) from nutrients we consume in our diet is referred to as which of the following?
+
+Energy metabolism
+
+
+
+What foods tend to have a higher thermic response than others?
+
+High-protein foods
+
+
+
+Which hormone is referred to as the hunger hormone because it stimulates appetite, increases food intake, and promotes fat storage?
+
+Ghrelin
+
+
+
 
 
