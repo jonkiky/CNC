@@ -2,10 +2,6 @@
 
 * [Nutrition Coach](README.md)
 
-## Energy Balance and Metabolism
-
-* [Introduction](energy-balance-and-metabolism/introduction.md)
-
 ## Energy Balance and Metabolism <a id="energy-balance-and-metabolism-1"></a>
 
 * [Thermodynamics and Energy Balance](energy-balance-and-metabolism-1/untitled.md)
@@ -17,8 +13,18 @@
 ## Protein
 
 * [What is Protein](protein/what-is-protein.md)
-* [Digestion and Absorption](protein/digestion-and-absorption.md)
+* [Digestion, Absorption](protein/digestion-and-absorption.md)
+* [Function](protein/function.md)
 * [Accommodating In A Dietary Program](protein/accommodating-in-a-dietary-program.md)
+* [Quiz](protein/quiz.md)
+
+## Carbohydrates
+
+* [Carbohydrate Introduction](carbohydrates/carbohydrate-introduction.md)
+* [Digestion, Absorption](carbohydrates/digestion-absorption.md)
+* [Functions](carbohydrates/functions.md)
+* [Accommodating In A Dietary Program](carbohydrates/accommodating-in-a-dietary-program.md)
+* [Quiz](carbohydrates/quiz.md)
 
 ## Alcohol
 
@@ -39,4 +45,11 @@
 
 * [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
 * [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
+
+## Micronutrients
+
+* [Water-Soluble Vitamins](micronutrients/water-soluble-vitamins.md)
+* [Fat-Soluble Vitamins](micronutrients/fat-soluble-vitamins.md)
+* [Minerals](micronutrients/minerals.md)
+* [Micronutrient Application](micronutrients/micronutrient-application.md)
 
