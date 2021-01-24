@@ -6,5 +6,5 @@ fat-soluble vitamins can be stored in the body’s fatty tissue.
 
 they must also be absorbed along with fats in the diet, meaning that they are not easily absorbed without dietary fat present in ingestion
 
-
+Vitamins A, D, E, and K are the fat-soluble vitamins.
 
