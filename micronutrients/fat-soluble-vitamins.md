@@ -108,7 +108,3 @@ This can be achieved by doing the following:
 
 
 
-
-
-### Common Food Sources of Vitamins
-
