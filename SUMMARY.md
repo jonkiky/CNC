@@ -33,6 +33,7 @@
 * [Physiological Effects Of Alcohol](alcohol/physiological-effects-of-alcohol.md)
 * [Alcohol Myths and Hot Topics](alcohol/alcohol-myths-and-hot-topics.md)
 * [Accommodating In A Dietary Program](alcohol/accommodating-in-a-dietary-program..md)
+* [Quiz](alcohol/quiz.md)
 
 ## Fat
 
