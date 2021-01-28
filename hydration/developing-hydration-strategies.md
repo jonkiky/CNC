@@ -63,5 +63,45 @@ EAH is a potentially deadly medical condition most commonly caused by fluid inta
 
 
 
+## Pre-Exercise Hydration Status Assessment
 
+### Thirst and Body Mass as Indicators of Hydration Status
+
+it has been proposed that athletes record their morning body weight after making voids over a 3-day period and use a 1% decrease from the 3-day body-mass average as a marker of hypohydration
+
+
+
+thirst sensation and change in body mass are likely great indicators of pre-exercise hydration status if fluid intake after the previous exercise bout is highly insufficient, b
+
+### Urinalysis as Indicator of Hydration Status
+
+Urine osmolality, color, and specific gravity are also used to gauge real-time hydration status.
+
+![](../.gitbook/assets/screen-shot-2021-01-28-at-5.00.17-pm.png)
+
+
+
+
+
+Urine-specific gravity may be an option for Nutrition Coaches looking for a more objective way to determine if clients are adequately rehydrating between training 
+
+**Urine-specific gravity:** A measurement that represents the ratio of solutes in the urine versus distilled water. : which the pathway of light is bent \(or refracted\) after traveling through a liquid in comparison to light passing through water that has no solute content.
+
+a USG exceeding 1.020 has been used as a dichotomous hydrated/dehydrated measure.
+
+## Fluid Intake During and Between Training
+
+Nutrition Coaches should only **intercede** when **intervention** is actually **needed**
+
+A simple recommendation is that if fluids are freely accessible during training and sweat losses will be less than about **3%** of body mass, no formal hydration advice concerning beverage consumption is needed during exercise.
+
+
+
+### Fluid Intake During Exercise
+
+
+
+fluid consumption can take place without difficulty
+
+The athlete should also practice their competitive fluid-intake routine strategy during training to determine if fluid consumption volume or beverage type will result in gastrointestinal distress.
 
