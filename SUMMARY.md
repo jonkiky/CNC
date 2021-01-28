@@ -46,6 +46,9 @@
 
 * [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
 * [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
+* [The Profile of a Weight Loss Client](psychology-of-weight-control-and-behavior-change/the-profile-of-a-weight-loss-client.md)
+* [Eating Behavior](psychology-of-weight-control-and-behavior-change/eating-behavior.md)
+* [Quiz](psychology-of-weight-control-and-behavior-change/quiz.md)
 
 ## Micronutrients
 
