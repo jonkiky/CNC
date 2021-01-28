@@ -22,7 +22,11 @@ Several elements determine sweat evaporation rate.
 
 Convection can be caused by the wind or by the client’s movement against air, which can be significant in activities 
 
+## How Does Dehydration Influence Performance?
 
+Hydration status affects the **two** major influential **factors** concerning performance during exercise in a **hot** **environment**: **cardiovascular** and **thermoregulatory** function.
+
+![](../.gitbook/assets/screen-shot-2021-01-28-at-4.15.14-pm.png)
 
 
 
