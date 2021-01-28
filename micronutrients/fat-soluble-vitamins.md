@@ -66,7 +66,7 @@ Vitamin D is found in many of the same foods as vitamin A: salmon, sardines, mac
 
 Vitamin E is one of the main antioxidant molecules in the body and it protects cells from oxidative damage.
 
-Vitamin E deficiency can lead to neurological disorders that include uncontrolled movement and slurred speech.
+Vitamin E deficiency can lead to **neurological disorders that include uncontrolled movement and slurred speech.**
 
 _**Where is it found in foods?**_
 

@@ -178,7 +178,7 @@ vitamin C is important for maintaining your antioxidant system and minimizing di
 
 Deficiencies in vitamin C can lead to diseases such as scurvy as well as less-serious conditions such as dry skin.
 
-deficiencies in vitamin C are uncommon
+deficiencies in vitamin C are uncommon, they do still occur in roughly 7% of the U.S. population
 
 
 
