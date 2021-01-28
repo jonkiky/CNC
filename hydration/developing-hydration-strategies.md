@@ -12,6 +12,10 @@ Sweat-loss assessment allows the Nutrition Coach to determine if their clients d
 
 
 
+
+
+
+
 Calculating Sweat Loss
 
 <table>
@@ -104,4 +108,29 @@ A simple recommendation is that if fluids are freely accessible during training 
 fluid consumption can take place without difficulty
 
 The athlete should also practice their competitive fluid-intake routine strategy during training to determine if fluid consumption volume or beverage type will result in gastrointestinal distress.
+
+
+
+### Fluid Intake During Recovery
+
+The key to recovery hydration is to replace sweat-loss fluids and maximize the retention of those fluids before the next training session.
+
+suggest that when the recovery period is less than 12 hours, athletes should replace **150%** of their sweat losses via beverage fluids.
+
+roughly 1/3 of beverage intake will be lost through urine voids.
+
+greater than 3% body-mass loss will be incurred and the recovery period will be &lt;12 hours, it is suggested that athletes should aim for replacing at least 110 to120% of their sweat losses with fluid intake
+
+Sodium, protein, and carbohydrate intake support fluid retention by decreasing relative urine production.
+
+Eating meals and snacking between training is paramount to optimizing recovery hydration efforts
+
+
+
+* Some fruits and vegetables contain up to 90% of their mass as water and also contain potassium, the key ICF electrolyte. Soups are also high in water content and generally contain ample amounts of sodium.
+* Many athletes falsely assume water is the only beverage that improves hydration status. 
+* Caffeine has also been miscast as a diuretic for physically active populations, but habitual consumption of caffeine and exercise negate the diuretic effect of caffeine to benign levels \(Zhang et al., 2015\).
+* The high sodium content of pickle juice reduces urine output. This strategy might be helpful during very-intense periods of training in the heat but it is not likely needed if salty food is consumed at meals during recovery.
+
+
 
