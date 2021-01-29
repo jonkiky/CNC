@@ -65,3 +65,8 @@
 * [Developing Hydration Strategies](hydration/developing-hydration-strategies.md)
 * [Quiz](hydration/quiz.md)
 
+## Nutrient Timing
+
+* [Nutrient Timing](nutrient-timing/nutrient-timing.md)
+* [Nutrient Timing Applications: Endurance vs. Strength-Based Activity](nutrient-timing/nutrient-timing-applications-endurance-vs.-strength-based-activity.md)
+
