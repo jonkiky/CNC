@@ -73,3 +73,14 @@
 * [Summary](nutrient-timing/summary.md)
 * [Quiz](nutrient-timing/quiz.md)
 
+## Supplements
+
+* [Introduction to Dietary Supplements](supplements/introduction-to-dietary-supplements.md)
+* [Supplements for Muscle Gain and Recovery](supplements/supplements-for-muscle-gain-and-recovery.md)
+
+---
+
+* [Supplements for Fat Loss](supplements-for-fat-loss.md)
+* [Performance-Enhancing Supplements](performance-enhancing-supplements.md)
+* [Quiz](quiz.md)
+
