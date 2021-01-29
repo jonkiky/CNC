@@ -71,4 +71,5 @@
 * [Nutrient Timing Applications: Endurance vs. Strength-Based Activity](nutrient-timing/nutrient-timing-applications-endurance-vs.-strength-based-activity.md)
 * [Myths and Hot Topics](nutrient-timing/myths-and-hot-topics.md)
 * [Summary](nutrient-timing/summary.md)
+* [Quiz](nutrient-timing/quiz.md)
 
