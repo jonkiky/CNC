@@ -28,3 +28,16 @@ Social modeling is often described as **vicarious experiences**, in which someon
 
 
 
+
+
+Social Persuasion
+
+| **Positive** | **Negative** |
+| :--- | :--- |
+| Encouraging a client to do some extra cardio following a social gathering that included indulging in extra calories. | Telling a client not to worry about skipping workouts when their schedule gets busy. |
+| Telling a client about a new organic protein bar that is inexpensive and fits their food plan. | Encouraging a client to splurge on dessert so that they can stay ahead of any cravings. |
+| Letting a client know you are extremely proud of their progress and to keep up the great work. | Informing a client that you are very disappointed in their lack of progress in the past few weeks. |
+|  |  |
+
+
+

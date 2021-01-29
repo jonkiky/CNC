@@ -33,6 +33,7 @@
 * [Physiological Effects Of Alcohol](alcohol/physiological-effects-of-alcohol.md)
 * [Alcohol Myths and Hot Topics](alcohol/alcohol-myths-and-hot-topics.md)
 * [Accommodating In A Dietary Program](alcohol/accommodating-in-a-dietary-program..md)
+* [Quiz](alcohol/quiz.md)
 
 ## Fat
 
@@ -45,6 +46,9 @@
 
 * [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
 * [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
+* [The Profile of a Weight Loss Client](psychology-of-weight-control-and-behavior-change/the-profile-of-a-weight-loss-client.md)
+* [Eating Behavior](psychology-of-weight-control-and-behavior-change/eating-behavior.md)
+* [Quiz](psychology-of-weight-control-and-behavior-change/quiz.md)
 
 ## Micronutrients
 
@@ -52,4 +56,12 @@
 * [Fat-Soluble Vitamins](micronutrients/fat-soluble-vitamins.md)
 * [Minerals](micronutrients/minerals.md)
 * [Micronutrient Application](micronutrients/micronutrient-application.md)
+* [Quiz](micronutrients/quiz.md)
+
+## Hydration
+
+* [The Physiology of Hydration](hydration/the-physiology-of-hydration.md)
+* [Effects of Dehydration](hydration/effects-of-dehydration.md)
+* [Developing Hydration Strategies](hydration/developing-hydration-strategies.md)
+* [Quiz](hydration/quiz.md)
 
