@@ -63,4 +63,5 @@
 * [The Physiology of Hydration](hydration/the-physiology-of-hydration.md)
 * [Effects of Dehydration](hydration/effects-of-dehydration.md)
 * [Developing Hydration Strategies](hydration/developing-hydration-strategies.md)
+* [Quiz](hydration/quiz.md)
 
