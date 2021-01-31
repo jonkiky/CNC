@@ -65,3 +65,22 @@
 * [Developing Hydration Strategies](hydration/developing-hydration-strategies.md)
 * [Quiz](hydration/quiz.md)
 
+## Nutrient Timing
+
+* [Nutrient Timing](nutrient-timing/nutrient-timing.md)
+* [Nutrient Timing Applications: Endurance vs. Strength-Based Activity](nutrient-timing/nutrient-timing-applications-endurance-vs.-strength-based-activity.md)
+* [Myths and Hot Topics](nutrient-timing/myths-and-hot-topics.md)
+* [Summary](nutrient-timing/summary.md)
+* [Quiz](nutrient-timing/quiz.md)
+
+## Supplements
+
+* [Introduction to Dietary Supplements](supplements/introduction-to-dietary-supplements.md)
+* [Supplements for Muscle Gain and Recovery](supplements/supplements-for-muscle-gain-and-recovery.md)
+
+---
+
+* [Supplements for Fat Loss](supplements-for-fat-loss.md)
+* [Performance-Enhancing Supplements](performance-enhancing-supplements.md)
+* [Quiz](quiz.md)
+
