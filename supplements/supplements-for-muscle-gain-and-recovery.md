@@ -253,9 +253,25 @@ I**n theory,** a plant-based protein source rich in EAAs and leucine with high b
 
 **whey and pea protein groups** experiencing similar and significant improvements in muscle. 
 
+**Protein** supplementation provides a **viable means** of optimizing the muscle synthetic response over 24 hours with benefits appearing greater with whey and casein, which are abundant in **leucine** and contain the full spectrum of **EAAs** required to synthesize muscle tissue.
 
+
+
+* A pre-bedtime protein dose of 30 to 40 grams may help maximize MPS during sleeping hours.
+
+### 
 
 ### Essential Amino Acids
+
+It is well-established that complete protein sources, which contain the greatest amounts of **EAAs**, are the **most effective at stimulating muscle protein synthesis** with a synergistic effect occurring with **resistance** **training**.
+
+**EAAs** are an effective means to stimulate MPS and can potentially aid in preserving muscle mass and enhancing resistance training outcomes during aging.
+
+
+
+
+
+
 
 
 
