@@ -42,11 +42,81 @@ the FDA performs annual **inspections of randomly** selected manufacturing sites
 
 In the 2016 FDA Inspection Report of nearly 5**00 manufacturing facilities**, infractions were found at nearly **2/3 of the facilities**
 
-
-
 \*\*\*\*
 
 \*\*\*\*
+
+### Guidelines for Supplement Selection
+
+####   Research
+
+Credible resources include the [National Institute of Health’s Office of Dietary Supplements](https://ods.od.nih.gov/), the [Micronutrient Information Center of the Linus Pauling Institute](https://lpi.oregonstate.edu/mic), and other reputable organizations such as the [Academy of Dietetics and Nutrition](https://www.eatrightpro.org/) and the [International Olympic Committee](https://www.olympic.org/the-ioc), all of which offer position papers on various topics related to exercise and sports nutrition, supplements, and ergogenic aids.
+
+
+
+Scientific, peer-reviewed research reviews and clinical trials available on PubMed are generally reliable resources with limitations to studies, sometimes including a small number of participants, inadequate duration, and lack of control of influencing factors
+
+
+
+#### Dosages, Ingredient Form, and Study Populations
+
+the **formula** of the product, including amounts and forms of the ingredients, should ideally match well-designed human clinical trials, which include a **control group**, **randomization** of the supplement\(s\) and **placebo**, the **measurement** of **relevant** **outcomes**, and a c**ontrol for any confounding variable**s.
+
+
+
+supplement companies frequently tout some forms of ingredients to be superior to others
+
+dose of the ingredients included in the product, which may not match study protocols.
+
+it is not required by law for supplement manufacturers to **prove their products are safe or effective;** however, companies are legally obligated to have scientific research that supports the safety and efficacy of their products and should be able to provide this documentation on request.
+
+
+
+#### Independent Testing
+
+The major companies in the United States that provide certification to verify the content of their supplements include Consumer Lab, U.S. Pharmacopeia \(USP\), Informed Choice, Banned Substances Control Group \(BSCG\), and NSF International
+
+![](../.gitbook/assets/screen-shot-2021-02-01-at-4.38.38-pm.png)
+
+\*\*\*\*
+
+**Consumer Lab**’s quality evaluation requires that products from consumer channels be **randomly tested** **once a year.** Approval indicates the product was tested for **ingredient identity, strength** \(amounts stated on the label\), **purity** \(free of specified contaminants\), and **disintegration** \(Consumer Lab, 2018\).
+
+
+
+**USP’s Dietary Supplement Verification Program** ensures the product contains the ingredients and amounts listed on the label, **is free from harmful levels** of specified contaminants \(e.g., pesticides, heavy metals, or microbes\), is made in a facility that is compliant to **cGMPs**, and will breakdown in the body within a specified time. Products are also tested **annually** to retain the USP Verified mark \(U.S. Pharmacopeia, 2018\).
+
+
+
+**BSCG’s Certified Drug-Free program, Informed Choice’s Registration Process, and NSF International’s Certified for Sport program**  to **hidden drugs and banned substances** in **sports** is also conducted to varying degrees .  ****to include the certifier’s logo and are listed on the certifier’s website.
+
+
+
+Major League Baseball, the National Hockey League, and the Canadian Football League require members to utilize **only** **NSF** Certified-for-Sport products.
+
+National Football League, the Professional Golf Association, and the Collegiate and Professional Sports Dietitians Association, **recommend** NSF Certified-for-Sport products.
+
+
+
+### Multivitamin and Mineral Supplements
+
+The proper use of dietary supplements, particularly multivitamin and mineral formulas, has been shown to help fill common and widespread nutrient gaps.
+
+ Achieving daily requirements for major minerals such as calcium, magnesium, iron, and other essential nutrients, such as vitamin D and the omega-3 fatty acids **DHA** and **EPA**, may require separate supplementation. 
+
+![](../.gitbook/assets/screen-shot-2021-02-01-at-4.45.12-pm.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
