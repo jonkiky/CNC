@@ -267,9 +267,22 @@ It is well-established that complete protein sources, which contain the greatest
 
 **EAAs** are an effective means to stimulate MPS and can potentially aid in preserving muscle mass and enhancing resistance training outcomes during aging.
 
+branched chain amino acids \(**BCAAs**\)
 
 
 
+
+
+Essential Amino Acids
+
+| Leucine | Isoleucine | Valine |
+| :--- | :--- | :--- |
+| Histidine | Lysine | Methionine |
+| Phenylalanine | Threonine  | Tryptophan |
+
+Some studies have investigated the potential value of **EAAs** to reduce perceived muscle **soreness**, decrease **markers** of muscle **damage**, or help **maintain force** production and, thus, support ongoing **high-quality training sessions**.
+
+**EAA or BCAA** ingestion with adequate leucine may serve as a viable nutritional strategy to maximize MPS throughout the day **among young and older** individuals and may be particularly beneficial with lower protein intakes while restricting calories to promote fat loss, minimize the loss of lean tissue, and support recovery from intense training.
 
 
 
