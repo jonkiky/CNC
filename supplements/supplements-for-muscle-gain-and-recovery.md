@@ -286,6 +286,16 @@ Some studies have investigated the potential value of **EAAs** to reduce perceiv
 
 
 
+Consuming **6 to 15 grams** of essential amino acids **EAA** with **1.7 to 3.5 grams** of **leucine** may maximize MPS and reduce muscle **soreness**.
+
+Adequate leucine **\(1.7 to 3.5 grams\)** and all **EAAs** are required to stimulate muscle protein synthesis and build muscle tissue.
+
+
+
+### HMB \(Hydroxy-Methylbutyrate\)
+
+
+
 
 
 
