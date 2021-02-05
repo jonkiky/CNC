@@ -94,4 +94,5 @@
 
 * [Introduction](motivational-interviewing/introduction.md)
 * [Motivational Foundations](motivational-interviewing/motivational-foundations.md)
+* [Motivational Interviewing Strategies](motivational-interviewing/motivational-interviewing-strategies.md)
 
