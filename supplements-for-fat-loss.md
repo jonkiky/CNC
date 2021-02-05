@@ -40,7 +40,15 @@ P-synephrine is structurally similar to ephedrine and is often marketed as an ep
 
 ### Capsaicin
 
-Capsaicin is one of five naturally present capsaicinoids in red chili peppers and is purported to be a natural weight control due to its ability to stimulate thermogenesis, increase body temperature, and decrease food intake
+Capsaicin is one of five naturally present capsaicinoids in **red chili peppers** and is purported to be a natural weight control due to its ability to stimulate thermogenesis, increase body temperature, and decrease food intake
+
+administered **2.56 milligrams of capsaicin to 15 normal-weight** and overweight individuals before meals three times a day during a **25% caloric deficit** and observed a significant **increase in fat oxidation** over a 36-hour period.
 
 
+
+**Capsaicin ingestion** prior to meals appears to have a modest impact on both sides of the energy-balance equation, potentially serving as a useful aid to help manage appetite and slightly increase daily expenditure. Capsaicin is considered safe when used in the amounts studied, with 4 milligrams/day resulting in reports of **gastrointestinal distress, elevated insulin levels, and lower HDL cholesterol levels among some study participants.**
+
+\*\*\*\*
+
+Capsaicin may have a slight positive impact on energy expenditure, appetite, and food intake when consumed in 2- to 4-milligram doses before meals.
 
