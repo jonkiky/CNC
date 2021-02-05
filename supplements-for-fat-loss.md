@@ -56,9 +56,11 @@ Capsaicin may have a slight positive impact on energy expenditure, appetite, and
 
 ### Starch/Fat Blockers and Other Common Weight Loss Ingredients
 
-Phaseolus vulgaris, extracted from white kidney beans, **inhibits** the action of the **digestive enzyme** amylase, thus, interfering with the digestion of and absorption of carbohydrates and **potentially preventing absorption**
+**Phaseolus** vulgaris, extracted from white kidney beans, **inhibits** the action of the **digestive enzyme** amylase, thus, interfering with the digestion of and absorption of carbohydrates and **potentially preventing absorption**
 
 Daily dosages of Phaseolus vulgaris ranging from 500 to 3,000 milligrams for up to 12 weeks have been shown to modestly enhance weight loss
 
-Chitosan is another blocker supplement manufactured from shellfish.
+**Chitosan** is another blocker supplement manufactured from shellfish. It is marketed as a fat blocker due to its ability to prevent absorption of dietary fat by binding to it in the intestinal tract.
+
+Other commonly used ingredients in weight-loss supplements include **conjugated linoleic acid \(CLA\), L-carnitine, chromium, green coffee bean extract, and hydroxycitric acid or HCA \(garcinia cambogia\),** all of which are either lacking in well-designed research or have shown virtually no impact on body weight \(Manore, 2012\).
 
