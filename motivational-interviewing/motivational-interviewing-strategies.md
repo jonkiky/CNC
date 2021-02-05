@@ -26,5 +26,7 @@ Think of the way discrepancies drive behavior as part of a **feedback loop**. Pe
 
 A goal of MI is to have clients voice their reasons for changing by helping them identify a discrepancy between their ideal comparator and their current status quo. 
 
- coaches can use several strategies. One of these strategies, a values exploration, may help a client see the differences in how they are behaving now with how they would like to perceive themselves.
+ coaches can use several strategies. One of these strategies, a **values exploration**, may help a client see the differences in how they are behaving now with how they would like to perceive themselves.
+
+### Supporting Self-Efficacy
 
