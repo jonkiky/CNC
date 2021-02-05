@@ -84,3 +84,9 @@
 * [Eating Behavior](psychology-of-weight-control-and-behavior-change/eating-behavior.md)
 * [Quiz](psychology-of-weight-control-and-behavior-change/quiz.md)
 
+## Coaching and Communication <a id="cc"></a>
+
+* [The Science and Art of Communication in Coaching](cc/the-science-and-art-of-communication-in-coaching.md)
+* [Active Listening](cc/active-listening.md)
+* [Building Rapport](cc/building-rapport.md)
+
