@@ -294,11 +294,13 @@ Adequate leucine **\(1.7 to 3.5 grams\)** and all **EAAs** are required to stimu
 
 ### HMB \(Hydroxy-Methylbutyrate\)
 
+Hydroxy-Methylbutyrate is a byproduct of the essential branched chain amino acid, leucine, identified as the primary initiator of muscle protein synthesis.
 
+Among trained individuals, it appears that the duration of supplementation may be an **influencing** factor on **resistance** **training** and **body-composition outcomes.**
 
+**However**, a **systematic** **review** and **meta-analysis** of six randomized controlled trials and 193 participants on the effect of HMB supplementation on body composition and strength **did not find any impact in trained and competitive athletes**
 
-
-
+literature suggests HMB’s benefit as an anticatabolic and recovery agent with potential for counteracting muscle loss during aging
 
 
 
