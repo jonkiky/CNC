@@ -89,9 +89,13 @@ Theoretically, supplementation would allow **resistance exercise** workloads to 
 
 Skin tingling, a phenomenon known as paresthesia, is a reported side effect
 
+### 
+
 ### Sodium Bicarbonate
 
+Sodium bicarbonate, commonly known as baking soda, aids in **buffering the acidity** **in the blood** due to the production of hydrogen ions during sustained strenuous exercise,
 
+The overall body of evidence indicates **pre-exercise dosages** ranging from **0.2 to 0.4 gram/kilogram** of body weight, which equates to 3 to 5 teaspoons of baking soda approximately **1 to 2.5 hours** before activity improves short-term, high-intensity exercise performance by approximately 2% with benefits **diminishing** **beyond 10 minutes**
 
 
 
