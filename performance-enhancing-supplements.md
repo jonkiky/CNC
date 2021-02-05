@@ -1,2 +1,61 @@
 # Performance-Enhancing Supplements
 
+Performance-enhancing products are considered to be **ergogenic aids**
+
+Ferformance Supplements Strength of Research
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Moderate/Mixed</b>
+      </th>
+      <th style="text-align:left"><b>Weak</b>
+      </th>
+      <th style="text-align:left"><b>Banned</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>BCAAs</p>
+        <p>Carbohydrate/Protein Shakes</p>
+        <p>Citrulline</p>
+        <p>Essential Amino Acids</p>
+        <p>Glycerol</p>
+        <p>HMB</p>
+        <p>Nitrate</p>
+        <p>Quercetin</p>
+        <p>Taurine</p>
+      </td>
+      <td style="text-align:left">
+        <p>Arginine</p>
+        <p>Carnitine</p>
+        <p>Deer Antler Velvet</p>
+        <p>Glutamine</p>
+        <p>MCTs</p>
+        <p>Ribose</p>
+      </td>
+      <td style="text-align:left">
+        <p>Androstenedione</p>
+        <p>Dimethylamylamine (DMAA)</p>
+        <p>1,3-dimethybutylamine (DMBA)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Creatine Monohydrate
+
+Creatine monohydrate, as previously described, is supported by hundreds of studies that not only demonstrate its ability to i**ncrease strength and muscle gain but also its performance-enhancing** effects for any activity during which the **phosphocreatine system is heavily taxed**.
+
+**Performance improvements in endurance exercise are not as well-supported;** however, creatine may help **enhance glycogen synthesis** and aid in thermoregulation due to its ability to draw fluid into muscle
+
+
+
+**Nine weeks** of creatine supplementation and resistance training in elite football players resulted in **significant differences in strength, anaerobic power and capacity, lean body mass, and body weight** compared to the placebo and control groups
+
+**Short-term** use of creatine monohydrate at **20 grams/day,** divided into **5-gram dosages four times a day for 5 to 7 days**, can enhance anaerobic exercise capacity and performance. Continued use with a daily maintenance dose of **3 to 5 grams** may improve strength, power, and performance due to greater training adaptations.
+
+
+
