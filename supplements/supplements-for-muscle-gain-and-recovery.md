@@ -1,6 +1,6 @@
 # Supplements for Muscle Gain and Recovery
 
-there is general consensus that **protein, creatine monohydrate, and essential amino acids** are supported by strong evidence for enhancing resistance-training-induced outcomes, including strength and muscle hypertrophy.
+Protein intake greater than the recommended dietary allowance \(RDA\) of 0.8 gram/kilogram/day of body weight has been shown to help individuals performing resistance-training exercise maintain **protein balance**, build muscle mass, and improve body compositionthere is general consensus that **protein, creatine monohydrate, and essential amino acids** are supported by strong evidence for enhancing resistance-training-induced outcomes, including strength and muscle hypertrophy.
 
 
 
@@ -175,7 +175,136 @@ The ingestion of high-quality protein stimulates **muscle protein synthesis \(MP
 
 \*\*\*\*
 
-Protein intake greater than the recommended dietary allowance \(RDA\) of 0.8 gram/kilogram/day of body weight has been shown to help individuals performing resistance-training exercise maintain **protein balance**, build muscle mass, and improve body composition
+Protein intake greater than the recommended dietary allowance \(RDA\) of **0.8 gram/kilogram/day** of body weight has been shown to help individuals performing resistance-training exercise maintain **protein balance**, build muscle mass, and improve body composition
+
+
+
+These increases were n**ot further enhanced** with daily protein intakes greater than **1.62 gram/kilogram** of body weight
+
+Older individuals **did not appear to benefit** from training-induced increases and muscle protein supplementation
+
+
+
+however, the average dose among older subjects was **20 grams/day.** It has been shown that **higher** **dosages of up to 40 grams** post-exercise are needed to achieve muscle protein synthesis rates similar to younger counterparts, likely due to the **anabolic resistance** among older individuals 
+
+“**anabolic resistance**,” which is defined as the reduced ability of skeletal muscle to increase protein synthesis in response to amino acids and protein, insulin, or exercise
+
+
+
+The International Society of Sports Nutrition \(**ISSN**\) recommends a daily protein intake of **1.4 to 2.0** grams/kilograms of body weight to build and maintain muscle tissue for most exercisers
+
+
+
+This **did not yield** greater increases in lean mass compared to **2.2 grams/kilograms/day.**
+
+After resistance exercise, **skeletal muscle synthetic rates r**emain elevated for up to **24 hours** and, although the consumption of protein immediately \(1 hour\) after training or competition **may not enhance** hypertrophy **if total daily intakes are met,** doing so may support recovery and subsequent training and performance.
+
+
+
+the post-workout period offers an opportunity to consume a **high-quality protein dose** to help reach daily targets, enhance MPS, and potentially benefit continuous intense training.
+
+
+
+Athletes and exercisers interested in **optimizing muscle protein synthesis** to maximize gains in lean tissue may benefit from **per-meal protein doses of 0.40 to 0.55 gram/kilogram**, consumed across at least **four** **meals** to reach total daily intakes of 1.6 to 2.2 grams/kilograms.
+
+
+
+Protein Supplement Leucine Content
+
+| **Protein Supplement Type** | **% Leucine Content** |
+| :--- | :--- |
+| Whey | 11% |
+| Casein | 9.3% |
+| Eggs | 8.5% |
+| Soy Isolate | 8% |
+| Peas | 8% |
+| Wheat | 7% |
+| Brown Rice Isolate | 8% |
+
+
+
+### Whey
+
+Whey and casein are derived from bovine milk, comprising **20% and 80%** respectively of the **protein component of milk.**
+
+Whey protein concentrate is the liquid fraction of milk and is typically about 80% protein with small amounts of carbohydrates, fat, and **lactose**.
+
+Whey protein hydrolysate contains shorter amino acid chains \(peptides\), which are formed by adding enzymes to either whey concentrate or isolate, purportedly enhancing digestion and absorption.
+
+
+
+#### Casein Protein
+
+it contains **less leucine** and **is insoluble in acid,** forming clots in the stomach acid, thereby leading to slower digestion and absorption.
+
+the research on pre-sleep protein ingestion and its effect on **MPS**, strength, and muscle mass has been conducted with casein. The optimal protein types and dosages have yet to be established
+
+
+
+#### Plant Protein
+
+Plant-based protein supplements are growing in popularity and are often **composed of one or more protein sources from soy, peas, rice, and others.**
+
+ be inferior to whey and casein due to lower leucine content, fewer essential amino acids, and lower **bioavailability** 
+
+**bioavailability:** The extent to which an ingredient, food, or other substance is absorbed by the body.
+
+I**n theory,** a plant-based protein source rich in EAAs and leucine with high bioavailability would stimulate MPS and enhance the response to resistance exercise.
+
+**whey and pea protein groups** experiencing similar and significant improvements in muscle. 
+
+**Protein** supplementation provides a **viable means** of optimizing the muscle synthetic response over 24 hours with benefits appearing greater with whey and casein, which are abundant in **leucine** and contain the full spectrum of **EAAs** required to synthesize muscle tissue.
+
+
+
+* A pre-bedtime protein dose of 30 to 40 grams may help maximize MPS during sleeping hours.
+
+### 
+
+### Essential Amino Acids
+
+It is well-established that complete protein sources, which contain the greatest amounts of **EAAs**, are the **most effective at stimulating muscle protein synthesis** with a synergistic effect occurring with **resistance** **training**.
+
+**EAAs** are an effective means to stimulate MPS and can potentially aid in preserving muscle mass and enhancing resistance training outcomes during aging.
+
+branched chain amino acids \(**BCAAs**\)
+
+
+
+
+
+Essential Amino Acids
+
+| Leucine | Isoleucine | Valine |
+| :--- | :--- | :--- |
+| Histidine | Lysine | Methionine |
+| Phenylalanine | Threonine  | Tryptophan |
+
+Some studies have investigated the potential value of **EAAs** to reduce perceived muscle **soreness**, decrease **markers** of muscle **damage**, or help **maintain force** production and, thus, support ongoing **high-quality training sessions**.
+
+**EAA or BCAA** ingestion with adequate leucine may serve as a viable nutritional strategy to maximize MPS throughout the day **among young and older** individuals and may be particularly beneficial with lower protein intakes while restricting calories to promote fat loss, minimize the loss of lean tissue, and support recovery from intense training.
+
+
+
+Consuming **6 to 15 grams** of essential amino acids **EAA** with **1.7 to 3.5 grams** of **leucine** may maximize MPS and reduce muscle **soreness**.
+
+Adequate leucine **\(1.7 to 3.5 grams\)** and all **EAAs** are required to stimulate muscle protein synthesis and build muscle tissue.
+
+
+
+### HMB \(Hydroxy-Methylbutyrate\)
+
+Hydroxy-Methylbutyrate is a byproduct of the essential branched chain amino acid, leucine, identified as the primary initiator of muscle protein synthesis.
+
+Among trained individuals, it appears that the duration of supplementation may be an **influencing** factor on **resistance** **training** and **body-composition outcomes.**
+
+**However**, a **systematic** **review** and **meta-analysis** of six randomized controlled trials and 193 participants on the effect of HMB supplementation on body composition and strength **did not find any impact in trained and competitive athletes**
+
+literature suggests HMB’s benefit as an anticatabolic and recovery agent with potential for counteracting muscle loss during aging
+
+
+
+ 
 
 \*\*\*\*
 
