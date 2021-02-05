@@ -87,9 +87,9 @@ The IOC’s recommendation is based on weight \(about **65 milligrams/kilograms*
 
 Theoretically, supplementation would allow **resistance exercise** workloads to increase, leading to greater adaptations such as strength, power, and lean mass gain, **but this has yet to be determined.**
 
+Skin tingling, a phenomenon known as paresthesia, is a reported side effect
 
-
-
+### Sodium Bicarbonate
 
 
 
