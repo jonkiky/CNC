@@ -90,3 +90,7 @@
 * [Active Listening](cc/active-listening.md)
 * [Building Rapport](cc/building-rapport.md)
 
+## Motivational Interviewing
+
+* [Introduction](motivational-interviewing/introduction.md)
+
