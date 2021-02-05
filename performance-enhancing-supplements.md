@@ -69,7 +69,23 @@ Among trained cyclists, with low \(**100 milligrams/1.5 grams/kilograms\)** and 
 
 Among athletes who participate in team sports requiring repeated sprints over a prolonged period, **6 milligrams/kilograms** of caffeine consumed an hour before exercise trials resulted in 8.5% greater work performed and 7% higher peak power.  study on resistance exercise concluded **3 to 9 milligrams/kilograms** ingested 60 minutes prior to activity improves maximal strength.
 
+**Side effects :** 
 
+As noted, daily intakes of over 400 to 500 milligrams may cause side effects, including irritability, nausea, insomnia, and restlessness. Caffeine is contraindicated among those with heart disease, hypertension, thyroid disease, and anxiety and is not recommended during pregnancy and lactation.
+
+
+
+### Beta Alanine
+
+is a nonessential amino acid naturally present in animal meats and produced in the liver.
+
+Performance improvements result from **less fatigue** during intense activity of short to moderate duration \(1 to 4 minutes\). 
+
+The IOC’s recommendation is based on weight \(about **65 milligrams/kilograms**\) to be ingested in doses of **0.8 to 1.7 grams every 3 to 4 hours for 10 to 12 weeks**, **noting** the potential for meaningful performance benefits **for continuous or intermittent activity** lasting 30 seconds to 10 minutes
+
+
+
+Theoretically, supplementation would allow **resistance exercise** workloads to increase, leading to greater adaptations such as strength, power, and lean mass gain, **but this has yet to be determined.**
 
 
 
