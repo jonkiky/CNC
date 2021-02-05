@@ -64,3 +64,11 @@ Daily dosages of Phaseolus vulgaris ranging from 500 to 3,000 milligrams for up 
 
 Other commonly used ingredients in weight-loss supplements include **conjugated linoleic acid \(CLA\), L-carnitine, chromium, green coffee bean extract, and hydroxycitric acid or HCA \(garcinia cambogia\),** all of which are either lacking in well-designed research or have shown virtually no impact on body weight \(Manore, 2012\).
 
+
+
+### Meal-Replacement Formulas
+
+The use of protein-rich shake formulas has been shown to be an effective strategy for reducing caloric intake and supporting weight loss and weight-loss maintenance
+
+Supplements promoted as fat burners **have a limited impact on weight loss** with most ingredients lacking quality evidence. However, **the use of protein-rich meal replacements one to two times/day has been shown to improve weight-loss success, body composition, and maintenance of a healthy body weight.**
+
