@@ -42,14 +42,6 @@
 * [Functions](fat/functions.md)
 * [Accommodating In A Dietary Program](fat/accommodating-in-a-dietary-program.md)
 
-## Psychology of Weight Control and Behavior Change
-
-* [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
-* [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
-* [The Profile of a Weight Loss Client](psychology-of-weight-control-and-behavior-change/the-profile-of-a-weight-loss-client.md)
-* [Eating Behavior](psychology-of-weight-control-and-behavior-change/eating-behavior.md)
-* [Quiz](psychology-of-weight-control-and-behavior-change/quiz.md)
-
 ## Micronutrients
 
 * [Water-Soluble Vitamins](micronutrients/water-soluble-vitamins.md)
@@ -83,4 +75,12 @@
 * [Supplements for Fat Loss](supplements-for-fat-loss.md)
 * [Performance-Enhancing Supplements](performance-enhancing-supplements.md)
 * [Quiz](quiz.md)
+
+## Psychology of Weight Control and Behavior Change
+
+* [The Science of Psychology](psychology-of-weight-control-and-behavior-change/the-science-of-psychology.md)
+* [Psychology of Body Image and Low Self-Esteem](psychology-of-weight-control-and-behavior-change/psychology-of-body-image-and-low-self-esteem.md)
+* [The Profile of a Weight Loss Client](psychology-of-weight-control-and-behavior-change/the-profile-of-a-weight-loss-client.md)
+* [Eating Behavior](psychology-of-weight-control-and-behavior-change/eating-behavior.md)
+* [Quiz](psychology-of-weight-control-and-behavior-change/quiz.md)
 
