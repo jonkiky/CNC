@@ -50,5 +50,15 @@ administered **2.56 milligrams of capsaicin to 15 normal-weight** and overweight
 
 \*\*\*\*
 
-Capsaicin may have a slight positive impact on energy expenditure, appetite, and food intake when consumed in 2- to 4-milligram doses before meals.
+Capsaicin may have a slight positive impact on energy expenditure, appetite, and food intake when consumed in **2- to 4-milligram doses before meals.**
+
+\*\*\*\*
+
+### Starch/Fat Blockers and Other Common Weight Loss Ingredients
+
+Phaseolus vulgaris, extracted from white kidney beans, **inhibits** the action of the **digestive enzyme** amylase, thus, interfering with the digestion of and absorption of carbohydrates and **potentially preventing absorption**
+
+Daily dosages of Phaseolus vulgaris ranging from 500 to 3,000 milligrams for up to 12 weeks have been shown to modestly enhance weight loss
+
+Chitosan is another blocker supplement manufactured from shellfish.
 
