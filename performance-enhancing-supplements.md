@@ -59,3 +59,25 @@ Creatine monohydrate, as previously described, is supported by hundreds of studi
 
 
 
+### Caffeine
+
+Caffeine is often included in **preworkout-type** supplements in the purified, anhydrous form.
+
+Caffeine ingestion prior to intense exercise reduces rates of perceived exertion, lowers pain,
+
+Among trained cyclists, with low \(**100 milligrams/1.5 grams/kilograms\)** and moderate \(**200 milligrams/2.9 milligrams/kilograms**\) dosages consumed during exercise, time trials were completed significantly faster
+
+Among athletes who participate in team sports requiring repeated sprints over a prolonged period, **6 milligrams/kilograms** of caffeine consumed an hour before exercise trials resulted in 8.5% greater work performed and 7% higher peak power.  study on resistance exercise concluded **3 to 9 milligrams/kilograms** ingested 60 minutes prior to activity improves maximal strength.
+
+
+
+
+
+
+
+
+
+
+
+
+
