@@ -105,3 +105,7 @@
 * [Case Study](goal-setting/case-study.md)
 * [Quiz](goal-setting/quiz.md)
 
+## Dietary Assessment and Body Composition Testing
+
+* [Untitled](dietary-assessment-and-body-composition-testing/untitled.md)
+
