@@ -100,5 +100,5 @@
 
 ## Goal Setting
 
-* [Untitled](goal-setting/untitled.md)
+* [Introduction](goal-setting/untitled.md)
 
