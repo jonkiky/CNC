@@ -101,4 +101,5 @@
 ## Goal Setting
 
 * [Introduction](goal-setting/untitled.md)
+* [Goal-Setting Principles](goal-setting/goal-setting-principles.md)
 
