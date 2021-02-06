@@ -107,5 +107,9 @@
 
 ## Dietary Assessment and Body Composition Testing
 
-* [Untitled](dietary-assessment-and-body-composition-testing/untitled.md)
+* [Dietary Guidelines Foundation](dietary-assessment-and-body-composition-testing/untitled.md)
+* [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing/disparities-between-guidelines-and-intake.md)
+* [Assessing Dietary Intake](dietary-assessment-and-body-composition-testing/assessing-dietary-intake.md)
+* [Monitoring Body Composition](dietary-assessment-and-body-composition-testing/monitoring-body-composition.md)
+* [Choosing the Best Methods for Your Clients](dietary-assessment-and-body-composition-testing/choosing-the-best-methods-for-your-clients.md)
 
