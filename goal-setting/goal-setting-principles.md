@@ -61,7 +61,21 @@ make sure that Nutrition Coaches customize goals to the individual
 
 
 
+Specifically, it is recommended that to increase commitment, individuals post their goals in a public place to increase motivation and possibly peer pressure to achieve their goals.
 
+
+
+--------------------------------------------------------------------------------
+
+To help individualize goals for clients, ask open-ended questions to more clearly understand their intrinsic motivation and barriers to new lifestyle habits. Some examples include the following:
+
+* What are your biggest concerns about your health and eating habits?
+* What work are you prepared to do to reach your goal?
+* How motivated are you to reach your goal?
+* What have you tried in the past to reach your weight-loss goal?
+* Did it succeed? Why or why not?
+* What has prevented you from reaching your goals in the past?
+* Have you already started making changes to your dietary habits?
 
 
 
