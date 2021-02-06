@@ -113,3 +113,7 @@
 * [Monitoring Body Composition](dietary-assessment-and-body-composition-testing/monitoring-body-composition.md)
 * [Choosing the Best Methods for Your Clients](dietary-assessment-and-body-composition-testing/choosing-the-best-methods-for-your-clients.md)
 
+## Food Labels
+
+* [Untitled](food-labels/untitled.md)
+
