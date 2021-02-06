@@ -103,4 +103,5 @@
 * [Introduction](goal-setting/untitled.md)
 * [Goal-Setting Principles](goal-setting/goal-setting-principles.md)
 * [Case Study](goal-setting/case-study.md)
+* [Quiz](goal-setting/quiz.md)
 
