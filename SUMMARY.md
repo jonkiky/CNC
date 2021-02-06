@@ -95,4 +95,25 @@
 * [Introduction](motivational-interviewing/introduction.md)
 * [Motivational Foundations](motivational-interviewing/motivational-foundations.md)
 * [Motivational Interviewing Strategies](motivational-interviewing/motivational-interviewing-strategies.md)
+* [Stages of Change and Motivational](motivational-interviewing/stages-of-change-and-motivational.md)
+* [Quiz](motivational-interviewing/quiz.md)
+
+## Goal Setting
+
+* [Introduction](goal-setting/untitled.md)
+* [Goal-Setting Principles](goal-setting/goal-setting-principles.md)
+* [Case Study](goal-setting/case-study.md)
+* [Quiz](goal-setting/quiz.md)
+
+## Dietary Assessment and Body Composition Testing
+
+* [Dietary Guidelines Foundation](dietary-assessment-and-body-composition-testing/untitled.md)
+* [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing/disparities-between-guidelines-and-intake.md)
+* [Assessing Dietary Intake](dietary-assessment-and-body-composition-testing/assessing-dietary-intake.md)
+* [Monitoring Body Composition](dietary-assessment-and-body-composition-testing/monitoring-body-composition.md)
+* [Choosing the Best Methods for Your Clients](dietary-assessment-and-body-composition-testing/choosing-the-best-methods-for-your-clients.md)
+
+## Food Labels
+
+* [Untitled](food-labels/untitled.md)
 
