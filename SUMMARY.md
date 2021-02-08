@@ -115,5 +115,5 @@
 
 ## Food Labels
 
-* [Untitled](food-labels/untitled.md)
+* [Food Labels](food-labels/untitled.md)
 
