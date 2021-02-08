@@ -120,3 +120,7 @@
 * [Portion Sizes](food-labels/portion-sizes.md)
 * [quiz](food-labels/quiz.md)
 
+## Dietary Assessment and Body Composition Testing <a id="dietary-assessment-and-body-composition-testing-1"></a>
+
+* [Dietary Guidelines Foundation](dietary-assessment-and-body-composition-testing-1/dietary-guidelines-foundation.md)
+
