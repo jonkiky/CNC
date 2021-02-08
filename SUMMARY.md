@@ -116,4 +116,5 @@
 ## Food Labels and Portion Sizes <a id="food-labels"></a>
 
 * [Food Labels](food-labels/untitled.md)
+* [Supplement Facts Labels](food-labels/supplement-facts-labels.md)
 
