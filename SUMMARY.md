@@ -131,5 +131,6 @@
 
 ## Helping Clients Navigate The Real World
 
-* [Untitled](helping-clients-navigate-the-real-world/untitled.md)
+* [Grocery Shopping](helping-clients-navigate-the-real-world/untitled.md)
+* [Dining Out](helping-clients-navigate-the-real-world/dining-out.md)
 
