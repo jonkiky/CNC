@@ -123,4 +123,6 @@
 ## Dietary Assessment and Body Composition Testing <a id="dietary-assessment-and-body-composition-testing-1"></a>
 
 * [Dietary Guidelines Foundation](dietary-assessment-and-body-composition-testing-1/dietary-guidelines-foundation.md)
+* [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing-1/disparities-between-guidelines-and-intake.md)
+* [Assessing Dietary Intake](dietary-assessment-and-body-composition-testing-1/assessing-dietary-intake.md)
 
