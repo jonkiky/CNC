@@ -51,21 +51,106 @@ the options on a menu that are the **lowest in calories** and added fats are gen
 | **Stir-Fried** | Food is cut into small pieces and then cooked in a small amount of hot oil in a wok while being stirred continuously. |
 | **Tempura** | Food that is battered and deep-fried. |
 
+Ask for Sauces, Dressing, and/or Cheese on the Side
 
+ Use a Plate for Shared Appetizers 
 
-#### Ask for Sauces, Dressing, and/or Cheese on the Side
+Avoid the Bread Basket or Limit to One Piece 
 
-#### Use a Plate for Shared Appetizers
+Balance Calories From Alcohol and Dessert 
 
-#### Avoid the Bread Basket or Limit to One Piece
+Set a Limit on Alcohol
 
-#### Balance Calories From Alcohol and Dessert
-
-#### Set a Limit on Alcohol
+#### \*\*\*\*
 
 ### Meeting Friends at the Bar
+
+**Set a drink limit**
+
+**Start with water or a non**-**alcoholic drink**
+
+**Avoid drinking on an empty stomach or if hungry**
+
+**Choose protein**-**based and vegetable appetizers at the bar**
+
+\*\*\*\*
+
+![](../.gitbook/assets/screen-shot-2021-02-09-at-2.54.47-pm.png)
 
 
 
 Healthy fats such as **olives, olive oil, avocados** \(all good sources of mono-unsaturated fats\), and nuts \(such as almonds and walnuts\) can **enhance** the flavor of meals and aid in the absorption of fat-soluble vitamins.
+
+How to Choose a Healthy Meal
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Process</b>
+      </th>
+      <th style="text-align:left"><b>Questions to Consider</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>1. Pick a protein.</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Is it lean?</li>
+          <li>If not, is there a leaner version that is cooked differently? (Is it grilled
+            or poached versus fried?)</li>
+          <li>Is it an appropriate portion size? If not, can you request a smaller portion
+            or save a portion for later?</li>
+          <li>Is there adequate protein? If not, can you request a slightly larger portion?</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>2. Pick at least two vegetables.</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Are vegetables available with the lunch option? Are they included in the
+            meal?</li>
+          <li>Can you request additional vegetables either on the side or to be added
+            to the meal?</li>
+          <li>How are the vegetables prepared? Are they raw or cooked? If cooked, are
+            they prepared in a healthy manner: grilled or roasted versus fried?</li>
+          <li>Are the vegetables breaded or covered in a sauce? Can you request sauce
+            on the side?</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>3. Pick a healthy, high-fiber starch.</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>What are the starch options available for the meal?</li>
+          <li>If grain-based, is it a whole grain or a refined grain?</li>
+          <li>How much starch does the meal provide?</li>
+          <li>Is it an appropriate portion? If in excess, can you request a smaller
+            portion or save some for a later time?</li>
+          <li>Is starch prepared in a healthy manner? Does it contain added fat (oil,
+            butter, or cheese)?</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>4. Pick a healthy fat.</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Is fat included in the preparation of the meal?</li>
+          <li>Is a healthy fat part of the meal?</li>
+          <li>If not, what options are available&#x2013;olive oil, avocado, nuts, seeds?</li>
+          <li>Is the amount a healthy portion? If not, can you request less or request
+            it on the side?</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
