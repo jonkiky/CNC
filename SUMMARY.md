@@ -124,6 +124,7 @@
 
 * [Dietary Guidelines Foundation](dietary-assessment-and-body-composition-testing-1/dietary-guidelines-foundation.md)
 * [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing-1/disparities-between-guidelines-and-intake.md)
+* [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing-1/disparities-between-guidelines-and-intake-1.md)
 * [Assessing Dietary Intake](dietary-assessment-and-body-composition-testing-1/assessing-dietary-intake.md)
 * [Monitoring Body Composition](dietary-assessment-and-body-composition-testing-1/monitoring-body-composition.md)
 * [Choosing the Best Methods for your Clients](dietary-assessment-and-body-composition-testing-1/choosing-the-best-methods-for-your-clients.md)
