@@ -67,3 +67,5 @@ the options on a menu that are the **lowest in calories** and added fats are gen
 
 
 
+Healthy fats such as **olives, olive oil, avocados** \(all good sources of mono-unsaturated fats\), and nuts \(such as almonds and walnuts\) can **enhance** the flavor of meals and aid in the absorption of fat-soluble vitamins.
+
