@@ -129,3 +129,7 @@
 * [Choosing the Best Methods for your Clients](dietary-assessment-and-body-composition-testing-1/choosing-the-best-methods-for-your-clients.md)
 * [Quiz](dietary-assessment-and-body-composition-testing-1/quiz.md)
 
+## Helping Clients Navigate The Real World
+
+* [Untitled](helping-clients-navigate-the-real-world/untitled.md)
+
