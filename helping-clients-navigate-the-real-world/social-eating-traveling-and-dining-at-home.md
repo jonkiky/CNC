@@ -83,3 +83,40 @@ Some additional benefits of meal prep include the following:
 * Not having to worry about what to eat or prepare on multiple days of the week because the preparation has been done beforehand
 * Having additional time to engage in other activities \(such as exercise, time with family, etc.\) during the week
 
+
+
+### Food Safety Guidelines
+
+
+
+Safe Internal Cooking Temperatures for Meat and Poultry
+
+| **Meat and Poultry** | **Minimum Internal Cooking Temperature** |
+| :--- | :--- |
+| Whole cuts of beef, pork, or lamb | 145°F \(Rest for 3 minutes before carving.\) |
+| Fin Fish | 145°F \(Flesh must be opaque.\) |
+| Raw, fresh ham | 145°F |
+| Ground meats \(beef and pork\) | 160°F |
+| All poultry \(including ground chicken and turkey\) | 165°F |
+| Casseroles and heating leftovers | 165°F |
+
+
+
+
+
+It is only a matter of time before clients come to you, asking questions about meal prepping. What are some guidelines that should be conveyed to clients interested in meal prep? Check all that apply. 
+
+
+
+Decide what type of meal prep best fits your lifestyle and preference.
+
+Set aside and budget the time required to plan, gather, and prep your meals.
+
+Invest in the right equipment, tools, and supplies required to make and store your meals.
+
+Stock up on the cooking staples to ensure you minimize frequent grocery shopping.
+
+Plan-ahead by preparing a weekly menu.
+
+Minimize distractions while meal prepping.
+
