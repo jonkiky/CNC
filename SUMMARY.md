@@ -137,3 +137,7 @@
 * [Social Eating, Traveling, and Dining at Home](helping-clients-navigate-the-real-world/social-eating-traveling-and-dining-at-home.md)
 * [Healthy Snacking and Creating Healthy Habits](helping-clients-navigate-the-real-world/healthy-snacking-and-creating-healthy-habits.md)
 
+## Navigating Diets
+
+* [Untitled](navigating-diets/untitled.md)
+
