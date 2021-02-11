@@ -139,5 +139,5 @@
 
 ## Navigating Diets
 
-* [Untitled](navigating-diets/untitled.md)
+* [Navigating Diets Introduction](navigating-diets/untitled.md)
 
