@@ -14,7 +14,7 @@ However, snacks can contribute to weight gain if they add to an individual’s c
 2. Mindless and excessive snacking due to boredom or other emotions  
 3. Late-night snacking on high-calorie foods
 
-
+![](../.gitbook/assets/screen-shot-2021-02-12-at-3.33.34-pm.png)
 
 ### Healthy Snacks
 
@@ -40,6 +40,22 @@ Guidelines to Choosing Healthier Snack Options
 
 
 ## Creating Healthy Habits
+
+### BJ Fogg’s Behavior Model
+
+The Fogg Behavior Model shows that **three elements must converge at the same moment for a behavior to occur: Motivation, Ability**, and a **Prompt**. When a behavior does not occur, at least one of those three elements is missing.
+
+![](../.gitbook/assets/screen-shot-2021-02-12-at-3.00.29-pm.png)
+
+The Fogg Behavior Model \(FBM\) makes it **easier to understand behavior in general.** What was once a fuzzy mass of psychological theories now becomes organized and specific when viewed through the FBM.
+
+With regard to creating healthier eating habits, an individual must first be _motivated_ to make a change.
+
+Clients must also feel confident that they have the _ability_ to engage in healthier behavior.
+
+The third element of B.J. Fogg’s model, _prompt_, refers to a trigger or a call to action. It is essentially a cue that will set off a behavior given that the other two factors, _motivation_ and _ability_, are in place.
+
+Small Steps to Success.
 
 
 
