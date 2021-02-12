@@ -140,4 +140,5 @@
 ## Navigating Diets
 
 * [Navigating Diets Introduction](navigating-diets/untitled.md)
+* [Diet Approaches Based on Macronutrient Composition](navigating-diets/diet-approaches-based-on-macronutrient-composition.md)
 
