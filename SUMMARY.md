@@ -124,8 +124,22 @@
 
 * [Dietary Guidelines Foundation](dietary-assessment-and-body-composition-testing-1/dietary-guidelines-foundation.md)
 * [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing-1/disparities-between-guidelines-and-intake.md)
+* [Disparities Between Guidelines and Intake](dietary-assessment-and-body-composition-testing-1/disparities-between-guidelines-and-intake-1.md)
 * [Assessing Dietary Intake](dietary-assessment-and-body-composition-testing-1/assessing-dietary-intake.md)
 * [Monitoring Body Composition](dietary-assessment-and-body-composition-testing-1/monitoring-body-composition.md)
 * [Choosing the Best Methods for your Clients](dietary-assessment-and-body-composition-testing-1/choosing-the-best-methods-for-your-clients.md)
 * [Quiz](dietary-assessment-and-body-composition-testing-1/quiz.md)
+
+## Helping Clients Navigate The Real World
+
+* [Grocery Shopping](helping-clients-navigate-the-real-world/untitled.md)
+* [Dining Out](helping-clients-navigate-the-real-world/dining-out.md)
+* [Social Eating, Traveling, and Dining at Home](helping-clients-navigate-the-real-world/social-eating-traveling-and-dining-at-home.md)
+* [Healthy Snacking and Creating Healthy Habits](helping-clients-navigate-the-real-world/healthy-snacking-and-creating-healthy-habits.md)
+
+## Navigating Diets
+
+* [Navigating Diets Introduction](navigating-diets/untitled.md)
+* [Diet Approaches Based on Macronutrient Composition](navigating-diets/diet-approaches-based-on-macronutrient-composition.md)
+* [Diet Approaches Based on Food Choices and/or Restrictions](navigating-diets/diet-approaches-based-on-food-choices-and-or-restrictions.md)
 
