@@ -142,5 +142,5 @@
 * [Navigating Diets Introduction](navigating-diets/untitled.md)
 * [Diet Approaches Based on Macronutrient Composition](navigating-diets/diet-approaches-based-on-macronutrient-composition.md)
 * [Diet Approaches Based on Food Choices and/or Restrictions](navigating-diets/diet-approaches-based-on-food-choices-and-or-restrictions.md)
-* [Untitled](navigating-diets/untitled-1.md)
+* [Diet Approaches Based on Time Restrictions and/or Fasting](navigating-diets/untitled-1.md)
 
