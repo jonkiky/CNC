@@ -144,3 +144,7 @@
 * [Diet Approaches Based on Food Choices and/or Restrictions](navigating-diets/diet-approaches-based-on-food-choices-and-or-restrictions.md)
 * [Diet Approaches Based on Time Restrictions and/or Fasting](navigating-diets/untitled-1.md)
 
+## Nutrition Hot Topics and Controversies
+
+* [Organic, Grass-Fed, and Pasture-Raised](nutrition-hot-topics-and-controversies/organic-grass-fed-and-pasture-raised.md)
+
