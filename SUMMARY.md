@@ -147,5 +147,6 @@
 ## Nutrition Hot Topics and Controversies
 
 * [Organic, Grass-Fed, and Pasture-Raised](nutrition-hot-topics-and-controversies/organic-grass-fed-and-pasture-raised.md)
+* [GMOs and Gluten-Free](nutrition-hot-topics-and-controversies/gmos-and-gluten-free.md)
 * [Quiz](nutrition-hot-topics-and-controversies/quiz.md)
 
