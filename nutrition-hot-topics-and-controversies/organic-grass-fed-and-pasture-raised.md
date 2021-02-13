@@ -48,3 +48,9 @@ The extent of the differences are variable, however, because the nutritional con
 
 Overall, opting for grass-fed and finished cattle will have the greatest nutritional impact if your client does not regularly consume seafood or regularly eat high-fat cuts of meat because the nutritional differences are **largely confined to the meat’s fat content.**
 
+As with the meat itself, the milk and eggs produced by livestock are influenced by the animals’ diet.
+
+increasing amount of grass in the diet leads to directly proportional decreases in saturated fat and increases in mono- and polyunsaturated fats, including conjugated linoleic acid \(CLA\) and ALA
+
+Generally speaking, nutritional differences are small and not of real-world value
+
