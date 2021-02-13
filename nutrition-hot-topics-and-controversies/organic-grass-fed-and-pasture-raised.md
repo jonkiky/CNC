@@ -38,7 +38,13 @@ Importantly, this increase comes almost entirely from **alpha-linolenic acid** *
 
 **No systematic reviews or meta-analyses have been conducted for eggs.** However, individual studies suggest that, while differences in fatty acids, vitamins, and minerals do exist, **they are too small to be of real-world significance**
 
-organic livestock live healthier and more humane lives than conventional livestock but this translates into minimal nutritional differences in their meat, milk, and eggs.
+organic livestock live healthier and more humane lives than conventional livestock but this **translates into minimal nutritional differences** in their meat, milk, and eggs.
 
+## Grass-Fed and Pasture-Raised
 
+beef from grass-fed and finished cattle is leaner, contains more omega-3 fatty acids, including EPA and DHA, and vitamins A and E
+
+The extent of the differences are variable, however, because the nutritional content of beef depends heavily on the type of forage crops that are eaten by the animal, the animal’s age and breed, and the season
+
+Overall, opting for grass-fed and finished cattle will have the greatest nutritional impact if your client does not regularly consume seafood or regularly eat high-fat cuts of meat because the nutritional differences are **largely confined to the meat’s fat content.**
 
