@@ -36,11 +36,55 @@ there are some potential **pitfalls :**
 
 ### Paleo Diet \(Paleolithic Diet\)
 
+The paleo diet is a dietary approach that **focuses on selecting foods that proponents of the diet claim humans were exposed to for most of our evolutionary history:** meat, fish, vegetables, fruit, nuts, and seeds. In its strictest form, it calls for the avoidance of grains, legumes, dairy products, and most conventionally processed foods.
+
+A _paleo diet_ typically includes lean meats, fish, fruits, vegetables, nuts and seeds — foods that i**n the past could be obtained by hunting and gathering**. A _paleo diet_ limits foods that became common when farming emerged about 10,000 years ago.
+
+Short-term trials in healthy people have shown that embarking on a paleo diet can lead to weight loss \(Osterdahl et al., 2008\) and improvements in blood markers such as cholesterol, triglycerides, and insulin \(Frassetto et al., 2009; Manheimer et al., 2016\).
+
+it is reasonable to assume that any fat loss benefit from the dietary change is simply due to decreased caloric intake \(via decreases in the consumption of **energy-dense**, hyperpalatable foods and increases in protein and vegetable intake\).
 
 
 
+### Gluten-Free Diet
+
+**Gluten** is the term used to describe a collection of proteins found in grains. In wheat, gluten covers two related proteins: **gliadin** and **glutenin**. Other gluten-containing grains include \(but are not limited to\) **barley** and **rye**.
+
+Going **gluten**-**free** means avoiding these grains.
+
+Naturally gluten-free grains include \(but are not limited to\) **corn** and **rice**.
+
+avoid for the patients with **celiac disease** as well as a wheat allergy. 
+
+Non-Celiac Gluten Sensitivity \(NCGS\): A clinical condition induced by the ingestion of gluten leading to intestinal and/or extraintestinal symptoms that improve once the gluten-containing foodstuff is removed from the diet and celiac disease and wheat allergy have been excluded.
+
+### MyPlate
+
+The MyPlate recommendations are based on four primary goals \(What is MyPlate?, 2018\):
+
+1. Focus on variety, amount, and nutrition.
+2. Choose foods and beverages with less saturated fat, sodium, and added sugars.
+3. Start with small changes to build healthier eating styles.
+4. Support healthy eating for everyone.
 
 
 
+![](../.gitbook/assets/screen-shot-2021-02-12-at-11.14.33-pm.png)
 
+### DASH \(Dietary Approaches to Stop Hypertension\) Diet
+
+was originally developed to help people **lower blood pressure** without medication.
+
+
+
+DASH Diet Recommendations \(courtesy of the National Heart, Lung and Blood Institute\)
+
+| Eating vegetables, fruits, and whole grains |
+| :--- |
+| Including fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils |
+| Limiting foods that are high in saturated fat such as fatty meats, full-fat dairy products, and tropical oils such as coconut, palm kernel, and palm oils |
+| Limiting sugar-sweetened beverages and sweets |
+|  |
+
+![](../.gitbook/assets/mod21-diet-approaches-food-choices-v3.png)
 
