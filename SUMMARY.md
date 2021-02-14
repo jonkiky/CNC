@@ -148,5 +148,6 @@
 
 * [Organic, Grass-Fed, and Pasture-Raised](nutrition-hot-topics-and-controversies/organic-grass-fed-and-pasture-raised.md)
 * [GMOs and Gluten-Free](nutrition-hot-topics-and-controversies/gmos-and-gluten-free.md)
+* [High-Fructose Corn Syrup and Nonnutritive Sweeteners](nutrition-hot-topics-and-controversies/high-fructose-corn-syrup-and-nonnutritive-sweeteners.md)
 * [Quiz](nutrition-hot-topics-and-controversies/quiz.md)
 
