@@ -32,7 +32,7 @@ One set of important recommendations within the DRIs are the **Acceptable Macron
 
 **Acceptable Macronutrient Distribution Range \(AMDR\):** The range of intake **for a particular energy source** that is associated with reduced risk of chronic disease while providing intakes of essential nutrients
 
-
+ 
 
 ### Principles of Healthy Eating Patterns
 
