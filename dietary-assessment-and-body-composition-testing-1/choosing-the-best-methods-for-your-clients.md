@@ -4,7 +4,7 @@
 
 Once information is collected about how the client’s body is changing over time, interpret these values and communicate the information to the client. This will allow both parties to understand more about the effects the client’s nutrition and exercise habits are having on his or her body.
 
-**First**, realize that each method has some inherent level of error.
+**First**, realize that each method has some inherent level of error. 
 
 In addition to interpreting results with caution, it is important for the client’s body composition to be assessed the exact same way each time.
 

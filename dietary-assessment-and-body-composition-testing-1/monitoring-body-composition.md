@@ -1,6 +1,6 @@
 # Monitoring Body Composition
 
-**Body composition** refers to all the separate compartments making up the human body. The composition of the body is one of several important factors to consider when evaluating an individual’s health and wellness. 
+**Body composition** refers to all the separate compartments making up the human body. The composition of the body is one of several important factors to consider when evaluating an individual’s health and wellness.  
 
 All methods of body composition attempt to divide the body into separate parts that have importance for the health and proper functioning of the body.
 
