@@ -4,8 +4,6 @@ An individual’s TDEE, the total amount of calories expended in a given day, is
 
 
 
-
-
 Equations for Determining Basal Metabolic Rate
 
 <table>
@@ -82,4 +80,50 @@ Equations for Determining Basal Metabolic Rate
     </tr>
   </tbody>
 </table>
+
+
+
+Once basal metabolic rate is determined, the next step is to multiply it by an activity factor
+
+
+
+Activity Factor Adjustments
+
+| **Level of Activity** | **Description of Activity** | **Activity Factor Adjustment** |
+| :--- | :--- | :--- |
+| Sedentary | Little or no exercise and a desk job | 1.2 |
+| Lightly Active | Light exercise 1 to 3 days per week | 1.375 |
+| Moderately Active | Moderate exercise 3 to 5 days per week | 1.55 |
+| Very Active | Heavy exercise 6 to 7 days per week | 1.725 |
+| Extremely Active | Very heavy exercise or a physical job or training twice per day | 1.9 |
+
+
+
+Case Study:
+
+Peter is a busy 40-year-old business executive. He weighs 100 kilograms \(220 pounds\) and is 6 feet tall \(182 centimeters\). He is moderately active, exercising about 4 days per week for 1 hour each session \(an activity factor of 1.55\). He wants to lose some weight and is willing to be on a 500-calorie deficit per day.
+
+Calculate Peter’s TDEE using the Mifflin–St. Jeor equation:
+
+* BMR = Male: 9.99 × weight \(kg\) + 6.25 x height \(cm\) – 4.92 × age + 5
+
+**Answer:**
+
+BMR = 9.99 × 100 \(kg\) + 6.25 × 182 cm – 4.92 × 40 + 5 = 1,944 calories
+
+1,944 × 1.55 = 3,014 calories
+
+**3,014 calories** = TDEE
+
+Based on these assumptions, Peter should consume about 2,514 calories per day \(3,014 – 500\) to help him lose weight. He will round this down to **2,500** to keep things simple.
+
+
+
+**Body Weight Planner**
+
+[https://www.niddk.nih.gov/bwp](https://www.niddk.nih.gov/bwp)
+
+
+
+
 
