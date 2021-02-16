@@ -58,5 +58,84 @@ Case 2: 325-pound \(147.41-kilogram\) woman losing 1% body weight per week
 
 
 
+At this point, a Nutrition Coach has the tools to effectively set a calorie deficit based on the overall goal, timeframe of that goal, and the parameters in which a safe yet effective deficit can be set. Remember that this deficit is relative to a person’s total daily energy expenditure \(**TDEE**\), which anchors what the deficit is relative too.
+
+#### 
+
+#### Weight \(Muscle\) Gain
+
+While weight gain can be achieved quite rapidly through a caloric surplus, for individuals whose goal is to gain lean body mass.
+
+In untrained or novice resistance trainees, a realistic increase in body weight should be roughly 0.5 to 1.0% per month. In most people, this translates to roughly 1 to 2 pounds \(0.45 to 0.9 kg\) of weight gain per month.
+
+In more advanced trainees, this rate of gain is cut in half with a 0.25 to 0.5% increase in total body weight serving as a target. This translates to roughly 0.5 to 1 pound \(0.2 to 0.4 kg\) per month.
+
+#### Simultaneous Fat Loss and Muscle Gain
+
+To do so simply requires adequate protein intake, resistance training, and a _moderate_ calorie deficit. But it is important to note, the rate of muscle gain while in a negative energy balance will be slower than if the client was in a calorie surplus.
+
+
+
+#### Improve Exercise Performance
+
+Athletes usually have goals that can be categorized as increasing strength, power, endurance, and/or skill development. While all of these goals can be placed into a coherent training program through thoughtful **periodization**, they often have **interfering effects** on one another. For this reason, they are usually set as independent goals for specific blocks of time.
+
+It is important to understand the performance goals for each athlete
+
+, athletes who are aiming to increase power and strength:
+
+The goal for these athletes is to maximize lean-mass gains and increases in force production while minimizing fat-mass accumulation.
+
+endurance athletes who will engage in low-, moderate-, and high-intensity training sessions and have high training volumes.
+
+The goal of these athletes is to fuel a high training load while minimizing lean-mass loss.
+
+
+
+Macronutrient Recommendations by Performance Goals
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Goal</b>
+      </th>
+      <th style="text-align:left"><b>Protein</b>
+      </th>
+      <th style="text-align:left"><b>Carbohydrates</b>
+      </th>
+      <th style="text-align:left"><b>Fats</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Endurance</td>
+      <td style="text-align:left">1.2 to 1.6 g/kg/day (0.5 to 0.7 g/lb/day)</td>
+      <td style="text-align:left">
+        <ul>
+          <li>3 to 5 g/kg/day (1.3 to 2.2 g/lbs/day) for the general population and
+            athletes who partake in low-volume training or mostly skill-based training</li>
+          <li>5 to 8 g/kg/day (2.2 to 3.6 g/lbs/day) for athletes who partake in moderate-volume,
+            high-intensity training &#x2013; This can be defined as athletes engaging
+            in 2 to 3 hours of training per day for 5 to 7 days per week.</li>
+          <li>8 to 10 g/kg/day (3.6 to 4.5 g/lbs/day) for athletes who partake in high-volume,
+            endurance-based training &#x2013; This can be defined as athletes engaging
+            in 3 to 6 hours of training per day for 5 to 7 days per week.</li>
+          <li>About 12 g/kg/day (5.4 g/lbs/day) for athletes who partake in very-high-volume,
+            endurance-based training &#x2013; This can be defined as athletes engaging
+            in &gt; 6 hours of training per day for 5 to 7 days per week.</li>
+        </ul>
+      </td>
+      <td style="text-align:left">1 g/kg/day (0.4 g/lb/day)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Strength/Power</td>
+      <td style="text-align:left">1.6 to 2.2 g/kg/day (0.7 to 1.0 g/lbs/day)</td>
+      <td style="text-align:left">Approximately 5 to 6 g/kg/day (2.2 to 2.7 g/lbs/day)</td>
+      <td style="text-align:left">About 30% of total daily calories (about 1 g/kg/day or 0.4 g/lb/day)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
