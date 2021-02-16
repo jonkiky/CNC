@@ -152,3 +152,7 @@
 * [DETOXES AND CLEANSES](nutrition-hot-topics-and-controversies/detoxes-and-cleanses.md)
 * [Quiz](nutrition-hot-topics-and-controversies/quiz.md)
 
+## Managing Weight Loss Plateaus and Maintaining Weight Loss
+
+* [Managing Plateaus and Maintaining Weight Loss](managing-weight-loss-plateaus-and-maintaining-weight-loss/managing-plateaus-and-maintaining-weight-loss.md)
+
