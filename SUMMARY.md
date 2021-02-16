@@ -158,11 +158,11 @@
 * [Cognitive Reframing: Breaking Through Weight-Loss Plateaus](managing-weight-loss-plateaus-and-maintaining-weight-loss/cognitive-reframing-breaking-through-weight-loss-plateaus.md)
 * [Long-Term Weight Maintenance](managing-weight-loss-plateaus-and-maintaining-weight-loss/long-term-weight-maintenance.md)
 
+## Programming: Putting It All Together
+
+* [Programming Introduction](programming-putting-it-all-together/untitled.md)
+
 ## Facts
 
 * [Facts](facts/facts.md)
-
-## Programming: Putting It All Together
-
-* [Untitled](programming-putting-it-all-together/untitled.md)
 
