@@ -156,6 +156,7 @@
 
 * [Managing Plateaus and Maintaining Weight Loss](managing-weight-loss-plateaus-and-maintaining-weight-loss/managing-plateaus-and-maintaining-weight-loss.md)
 * [Cognitive Reframing: Breaking Through Weight-Loss Plateaus](managing-weight-loss-plateaus-and-maintaining-weight-loss/cognitive-reframing-breaking-through-weight-loss-plateaus.md)
+* [Long-Term Weight Maintenance](managing-weight-loss-plateaus-and-maintaining-weight-loss/long-term-weight-maintenance.md)
 
 ## Facts
 
