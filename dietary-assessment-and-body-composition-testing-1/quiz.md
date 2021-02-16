@@ -2,7 +2,7 @@
 
 Which of the following is considered a true “gold standard” method of body composition assessment?
 
-A 4-compartment model
+A 4-compartment model 
 
 
 

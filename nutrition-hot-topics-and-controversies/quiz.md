@@ -18,5 +18,5 @@ There is no difference in how the body metabolizes fructose compared to glucose.
 
 
 
-
+![](../.gitbook/assets/screen-shot-2021-02-16-at-10.01.06-am.png)
 
