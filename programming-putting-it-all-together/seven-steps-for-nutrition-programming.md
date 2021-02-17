@@ -4,7 +4,7 @@ An individual’s TDEE, the total amount of calories expended in a given day, is
 
 
 
-Equations for Determining Basal Metabolic Rate
+### **Equations for Determining Basal Metabolic Rate**
 
 <table>
   <thead>
@@ -123,7 +123,50 @@ Based on these assumptions, Peter should consume about 2,514 calories per day \(
 
 [https://www.niddk.nih.gov/bwp](https://www.niddk.nih.gov/bwp)
 
+### Set the Protein Target
 
+Daily protein targets should be set between 1.2 grams/kilogram and 2.2 grams/kilogram \(0.54 to 1.0 gram/pound\). 
+
+For clients who fall into the _**general** population_ category, protein targets of 1.2 to 1.6 grams/kilogram \(0.54 to 0.7 grams/pound\) are appropriate. 
+
+For **athletes** or individuals looking to maximize muscle growth and training adaptations, protein targets of 1.6 to 2.2 grams/kilograms \(0.7 to 1.0 gram/pound\) are appropriate. 
+
+While protein targets can be set higher than this at 2.3 to 3.1 grams/kilograms to **preserve** **muscle** during periods of **caloric restriction**, these levels of protein do not augment muscle growth above 1.6 to 2.2 grams/kilograms.
+
+
+
+### Set the Fat Target
+
+Setting a daily fat target differs from protein in that it should be based on total calorie intake. The Acceptable Macronutrient Distribution Range \(AMDR\) for adults is **20 to 35%.**  
+
+Fat intake can increase above 35% if there is adequate fiber, micronutrient, and carbohydrate intake to allow for the appropriate level of workload for the client.
+
+Case Study:
+
+Peter, the business executive, has already determined his calorie and protein intake. His next step is to determine how many calories for fat he should eat. His Nutrition Coach recommends a modest fat intake of 30% based on Peter’s food preferences. Peter is sticking with a 2,500-calorie diet to help lose some weight. How many calories should he consume from fat each day?
+
+**Answer:**
+
+2,500 × 0.30 = **750 calories from fat per day**
+
+750 / 9 calories per gram = **83 grams of fat per day**
+
+
+
+### Set the Carbohydrate Target
+
+Carbohydrate targets can be set based on the remaining calories left after protein and fat targets are established. The formula would look like this:
+
+Carbohydrate target calories = total daily calories – protein calories – fat calories
+
+Remember that carbohydrate needs will increase as training volume and intensity increase and that total daily fat calories as a percent will decrease concurrently.
+
+
+
+* 3 to 5 g/kg/day \(1.3 to 2.2 g/lbs/day\) for general population and athletes who partake in low-volume training or mostly skill-based training
+* 5 to 8 g/kg/day \(2.2 to 3.6 g/lbs/day\) for athletes who partake in moderate-volume, high-intensity training – This can be defined as athletes engaging in 2 to 3 hours of training per day for 5 to 7 days per week.
+* 8 to 10 g/kg/day \(3.6 to 4.5 g/lbs/day\) for athletes who partake in high-volume, endurance-based training – This can be defined as athletes engaging in 3 to 6 hours of training per day for 5 to 7 days per week.
+* About 12 g/kg/day \(5.4 g/lbs/day\) for athletes who partake in very-high-volume, endurance-based training – This can be defined as athletes engaging in &gt; 6 hours of training per day for 5 to 7 days per week.
 
 
 
