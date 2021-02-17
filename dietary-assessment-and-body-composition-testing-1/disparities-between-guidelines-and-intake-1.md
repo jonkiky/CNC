@@ -1,6 +1,6 @@
 # Disparities Between Guidelines and Intake
 
-
+ 
 
 What We Eat in America Survey Results Summary
 

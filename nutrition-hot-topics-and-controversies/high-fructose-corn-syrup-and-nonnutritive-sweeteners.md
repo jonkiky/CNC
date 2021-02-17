@@ -115,5 +115,23 @@ Non-Nutritive Sweeteners on the Market
 
 A meta-analysis of 15 randomized controlled trials reported that **substituting NNS for sugar** modestly reduced body weight, fat mass, and waist circumference among people who were overweight and obese
 
+### Appetite
+
+The health halo effect describes a psychological phenomenon whereby people **eat more** of something they **perceive as being healthy**
+
+issue with NNS is the belief that they cause people to be hungrier and eat more because of the dissociation between sweet taste and lack of calories**.**
+
+he effects of NNS on hunger appear relatively benign.\(gentle\)
+
+### Type 2 Diabetes and Glycemic Control
+
+As with obesity, observational research links the use of **NNS** to the development of **Type 2 diabetes** \(Romo-Romo et al., 2016\). Unlike with obesity, the effects of NNS on glycemic control are complicated.
+
+emerging research is linking chronic use of NNS to worse glycemic control, which could provide an explanation for their link to Type 2 diabetes.
+
+NNS are associated with obesity and Type 2 diabetes due to the tendency for people with these conditions to consume more NNS in attempts to lose weight. Intervention studies consistently show that NNS facilitate weight loss when they replace sugar in the diet and can,
+
+
+
 
 

@@ -1,6 +1,6 @@
 # Assessing Dietary Intake
 
-Understand that a client may be unintentionally providing you with a diet record \(or other dietary assessment\) that is not fully reflective of their lifestyle. For example, a client may present you with a day of a diet record that they feel is a _normal_ day.
+ Understand that a client may be unintentionally providing you with a diet record \(or other dietary assessment\) that is not fully reflective of their lifestyle. For example, a client may present you with a day of a diet record that they feel is a _normal_ day.
 
 it is important to have a conversation with the client to ensure they understand the procedures of the dietary assessment method and the importance of getting an accurate picture of their habitual diet.
 
