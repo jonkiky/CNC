@@ -168,3 +168,7 @@
 
 * [Facts](facts/facts.md)
 
+---
+
+* [Resources](resources.md)
+
