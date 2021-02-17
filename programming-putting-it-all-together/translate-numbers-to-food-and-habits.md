@@ -81,11 +81,33 @@ Example Habit-Based Goals
 
 #### Step 3: Set Guidelines for Collecting Data and Monitoring
 
+It is important to set guidelines for collecting data and monitoring. These guidelines include what data is to be recorded, how often it is to be recorded, which party is responsible for collecting what, and how it is to be recorded \(notebook, e-mail, spreadsheets, mobile apps, etc.\).
 
+ A **behavioral contract** that is created and signed by both the Nutrition Coach and client can serve as positive reinforcement for the guidelines and expectations set and can be referred to in later sessions when reviewing client progress.
 
 
 
 #### Step 4: Set Intervals for Check-Ins and Evaluations
+
+Setting intervals for check-ins and evaluations is important for keeping continuity and holding the client and the nutrition coach accountable for maintaining a monitoring and evaluation process. Check-ins also help to decrease the likelihood that clients will revert to old behaviors by identifying any setbacks early in the process.
+
+#### Step 5: Gather, Organize, and Analyze Data
+
+The data analysis should be simple and focus on the most important aspects such as average daily and weekly calorie intake, average daily and weekly calorie surpluses and deficits, and adherence \(or lack thereof\) to habit-based goals.
+
+
+
+#### Step 6: Evaluate the Results With the Client
+
+The **teach-back method** is an evidence-based technique that the Nutrition Coach can use when discussing key findings to increase the client’s comprehension of new information, promote accurate retention of the key findings once the session has ended, and improve adherence to the recommended plan
+
+
+
+#### Step 7: Work Together to Form a Plan for the Next Iteration
+
+![](../.gitbook/assets/screen-shot-2021-02-16-at-11.45.15-pm.png)
+
+
 
 
 
