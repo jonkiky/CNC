@@ -162,6 +162,7 @@
 
 * [Programming Introduction](programming-putting-it-all-together/untitled.md)
 * [Seven Steps for Nutrition Programming](programming-putting-it-all-together/seven-steps-for-nutrition-programming.md)
+* [Translate Numbers to Food and Habits](programming-putting-it-all-together/translate-numbers-to-food-and-habits.md)
 
 ## Facts
 
