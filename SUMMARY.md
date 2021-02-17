@@ -171,4 +171,5 @@
 ---
 
 * [Resources](resources.md)
+* [Quiz](quiz-1.md)
 
