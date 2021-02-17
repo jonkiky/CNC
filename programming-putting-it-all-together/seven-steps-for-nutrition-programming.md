@@ -1,5 +1,10 @@
 # Seven Steps for Nutrition Programming
 
+* 3 to 5 g/kg/day \(1.3 to 2.2 g/lbs/day\) for general population and athletes who partake in low-volume training or mostly skill-based training
+* 5 to 8 g/kg/day \(2.2 to 3.6 g/lbs/day\) for athletes who partake in moderate-volume, high-intensity training – This can be defined as athletes engaging in 2 to 3 hours of training per day for 5 to 7 days per week.
+* 8 to 10 g/kg/day \(3.6 to 4.5 g/lbs/day\) for athletes who partake in high-volume, endurance-based training – This can be defined as athletes engaging in 3 to 6 hours of training per day for 5 to 7 days per week.
+* About 12 g/kg/day \(5.4 g/lbs/day\) for athletes who partake in very-high-volume, endurance-based training – This can be defined as athletes engaging in &gt; 6 hours of training per day for 5 to 7 days per week.
+
 An individual’s TDEE, the total amount of calories expended in a given day, is comprised of three main components: **Basal Metabolic Rate \(BMR\)**, **Thermic Effect of Activity \(TEA\)**, and the **Thermic Effect of Food \(TEF\)**.   Note that Nonexercise Activity Thermogenesis \(NEAT\), or random acts of movement throughout the day ****besides structured exercise \(e.g., fidgeting, taking a shower, or walking to a parked car\), ****is considered an aspect of TEA 
 
 
@@ -163,10 +168,18 @@ Remember that carbohydrate needs will increase as training volume and intensity 
 
 
 
-* 3 to 5 g/kg/day \(1.3 to 2.2 g/lbs/day\) for general population and athletes who partake in low-volume training or mostly skill-based training
-* 5 to 8 g/kg/day \(2.2 to 3.6 g/lbs/day\) for athletes who partake in moderate-volume, high-intensity training – This can be defined as athletes engaging in 2 to 3 hours of training per day for 5 to 7 days per week.
-* 8 to 10 g/kg/day \(3.6 to 4.5 g/lbs/day\) for athletes who partake in high-volume, endurance-based training – This can be defined as athletes engaging in 3 to 6 hours of training per day for 5 to 7 days per week.
-* About 12 g/kg/day \(5.4 g/lbs/day\) for athletes who partake in very-high-volume, endurance-based training – This can be defined as athletes engaging in &gt; 6 hours of training per day for 5 to 7 days per week.
+* 3 to 5 g/kg/day \(1.3 to 2.2 g/lbs/day\) for **general** population and athletes who partake in low-volume training or mostly skill-based training
+* 5 to 8 g/kg/day \(2.2 to 3.6 g/lbs/day\) for **athletes** who partake in **moderate**-volume, high-intensity training – This can be defined as athletes engaging in 2 to 3 hours of training per day for 5 to 7 days per week.
+* 8 to 10 g/kg/day \(3.6 to 4.5 g/lbs/day\) for **athletes** who partake in **high**-volume, endurance-based training – This can be defined as athletes engaging in 3 to 6 hours of training per day for 5 to 7 days per week.
+* About 12 g/kg/day \(5.4 g/lbs/day\) for **athletes** who partake in **very-high**-volume, endurance-based training – This can be defined as athletes engaging in &gt; 6 hours of training per day for 5 to 7 days per week.
+
+Carbohydrate target calories = total daily calories – protein calories – fat calories
+
+Carbohydrate target calories = 2,500 – 640 \(protein\) – 750 \(fat\) = 1,110
+
+Carbohydrate target = **1,110 calories**
+
+Carbohydrates in grams = 1,110 calories / 4 calories per gram = **278 grams of carbohydrate per day**
 
 
 
