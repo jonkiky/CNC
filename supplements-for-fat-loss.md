@@ -28,6 +28,8 @@ Green tea extracts, primarily EGCG, in combination with caffeine have been shown
 
 The American Medical Association recommends that teenagers limit daily intake of caffeine to **100 milligrams/day**
 
+Adult intake of caffeine up to 400 to 500 milligrams per day appears safe in healthy individuals
+
 \*\*\*\*
 
 ### p-synephrine
