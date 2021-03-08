@@ -5,7 +5,7 @@
 * Resting Metabolic Rate \(RMR\)
 * The Thermic Effect of Feeding \(TEF\)
 * The Thermic Effect of Activity \(TEA\)
-* Non-Exercising Activity Thermogenesis \(N E A T\) 
+* Non-Exercising Activity Thermogenesis \(NEAT\) 
 
 ![](../.gitbook/assets/screen-shot-2021-01-17-at-3.16.43-pm.png)
 
